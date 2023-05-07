@@ -3,19 +3,18 @@ title: Task Management and Notebook Workflow
 slug: notebook-workflow
 date: 2023-04-01
 draft: false
-description: ""
+tags: completed
 ---
-
 *How I setup and use a physical notebook for task management and to make sure nothing gets forgotten*
 
 ## Overview
 This is my *personal* workflow that I use for my task and date management. It is super boring (in a good way!). It means that it is no-nonsense, simple, sustainable, and reliable method for tracking things that you need to do. It works great for me but please adapt it to your own needs to create your own perfect system.
 
-I combined two different frameworks to land on my system. I started with the [Bullet Journal method.](https://bulletjournal.com) It's dynamic, robust, and easy to get started with. While the method itself is flexible, it is physically rigid. The problem I had was wasted paper and wasted time. The BuJo method asks you to create a new page for each month and reserve a bunch of blank pages for your future spread. There was either way too much space on the pages which led to wasted paper or not nearly enough which led to frustration. 
+I combined two different frameworks to land on my system. I started with the [Bullet Journal method.](https://bulletjournal.com) It's dynamic, robust, and easy to get started with. While the method itself is flexible, it is physically rigid. The problem I had was wasted paper and wasted time. The BuJo method asks you to create a new page for each month and reserve a bunch of blank pages for your future spread. There was either way too much space on the pages which led to wasted paper or not nearly enough which led to frustration.
 
 It was also so much work to keep updated. I constantly had to redraw these spreads, counting dots to get the perfect divisions and lines all over the place. This created too much friction for me and I never got into a habit of using my notebook. It also became a bit of an internet fad to have these elaborate drawings and a perfectly executed page for every so called "collection" in your life. It invited me to bloat my notebook with shiny new stuff I didn't need or use rather than stick to the essentials. I did, however, keep most of the symbols from the original BuJo system.
 
-As for the second framework, I took a page out of the [GTD (Getting Things Done)](https://gettingthingsdone.com) book; contexts. 
+As for the second framework, I took a page out of the [GTD (Getting Things Done)](https://gettingthingsdone.com) book; contexts.
 
 > Contexts identify tools, places, or people that you require to complete a given task. In other words, contexts allow you to focus on what you can actually get completed given your current circumstances.
 > \- [Todoist](https://todoist.com/productivity-methods/getting-things-done)
@@ -39,12 +38,13 @@ The majority of my quick capture notebook is Darija words but it can also contai
 
 You can also carry around a notebook that is both your main one and your quick capture one if that is convenient for you. I don't like lugging around my big notebook so I opt for a small pocket one and I transfer stuff at the end of each day.
 
-## Everything has a place
+## Everything Has a place
 Basically, there is **a line in my notebook for every single important task or date in my life.** When I hear about a new task or date, I don't have to spend mental energy figuring out where to put it in my notebook and I trust my system to not let it slip through the cracks.
 
 They are broken into progressively more refined time blocks (called spreads), starting at the high annual level and working down to the weekly level.
 
 ### Spreads
+
 #### Future
 The future spread looks six months into the future max. For the rare times I am planning out farther than that, I just write those on the margins of the future spread (utilizing that wasted paper space). The six months is customizable, I kind of chose it arbitrarily. It's a good mix of being far enough in the future and not wasting paper. **Each month is a context category.**
 
@@ -52,12 +52,12 @@ The future spread looks six months into the future max. For the rare times I am 
 Each month is split up into weeks. **Weeks of the year, not weeks of the month.** For example, it is March 31, 2023 right now and it is week 13 of the year. **Each week is a context category.** I also keep a key on the same line as the month so I can quickly know what week a particular date falls into without consulting a calendar every time.
 
 #### Weekly
-This is where the magic happens and the majority of tasks end their lifecycle. The week is titled the same as it is in the monthly, based on weeks of the year. **Each day of the week (and its corresponding number date) is a context category.** 
+This is where the magic happens and the majority of tasks end their lifecycle. The week is titled the same as it is in the monthly, based on weeks of the year. **Each day of the week (and its corresponding number date) is a context category.**
 
 #### Daily (Optional)
 This will depend on your setup. I used to make little notes in here and maybe journal once in a while but I found way better tools to do both (quick capture notebook and other software) and don't really use the daily note anymore. The only thing I think I use it for is for a particular drawing that I want to capture.
 
-### Adding a task
+### Adding a Task
 At most, you have to ask yourself two questions to know where a task or date goes:
 ```mermaid
 flowchart LR
@@ -77,7 +77,7 @@ flowchart LR
 		B --> C[Weekly]
 		C --> D[Completed]
 	end
-	
+
 	subgraph Tasks
 		%%style Tasks fill:#8388A0%%
 		direction LR
@@ -93,7 +93,6 @@ Sometimes, tasks flow backwards. For example, it's the end of the week and I rea
 
 ### Updating a Spread
 When you need to update a spread when the month or week changes, it is easy. You don't need to create a new page unless the current one is full. Simply skip a line on the current spread, write the new context categories, migrate tasks, and you are done.
-
 - When I create a new weekly spread, I look at the monthly spread for tasks that fall into this week. I transfer them from the monthly to the weekly where they will (hopefully) finish their lifecycle this week.
 - When I create a new monthly spread, I look at the future spread for tasks that fall into this month. I put them in their correct week number context categories.
 - When I create a new future spread, I look in the margins of the previous future spread. I either move it to its correct month or if I *really* planned something, put it in the margin of the new future spread.
@@ -117,7 +116,8 @@ Each page (future, monthly, or weekly) has a vertical line running down the enti
 For demonstration, privacy, and simplicity reasons, I made a toned down version in a normal old notebook.
 
 **Future**
-![[future.jpg | 500]]
+
+{{< image future Resize "692x webp q100" >}}An example future spread. Six months are lined across top and the tasks are listed to the right. Some tasks are crossed off, some have bullet points, and some have arrows.{{< /image >}}
 
 My future spreads usually contain birthdays and holidays because I don't plan actual tasks that far out. In this spread, you can see that I have migrated tasks from March and April to monthly spreads. I can now forget that they exist in my future spread.
 
@@ -126,14 +126,19 @@ I can get a quick glance of what is coming up in future months by looking for do
 You can also see that it is easy to add recurring tasks, like paying rent on the 4th every month by just adding dots in each context category.
 
 **Monthly**
-![[monthly.jpg | 500]]
 
-In this monthly spread, you can see the tasks that were in the future spread like $\pi$ day and paying rent. 
+{{< image monthly Resize "692x webp q100" >}}An example monthly spread. March is listed on the left side with week numbers below that. Extending to the right is a key that shows week nine is days one to five, week ten is days six to twelve, and so on. Tasks from the previous future spread are shown migrated here.{{< /image >}}
+
+
+In this monthly spread, you can see the tasks that were in the future spread like $\pi$ day and paying rent.
 
 You can also see the key for converting from a calendar date to its corresponding week number. Week 9 contains March 1st through March 5th, week 10 contains March 6th through March 12th, etc. This way, I don't have to look at a calendar when someone tells me that Easter is on April 9th. I look at the key, see that the 9th falls into week 14 and I add it accordingly.
 
 **Weekly**
-![[weekly.jpg | 500]]
+
+{{< image weekly Resize "692x webp q100" >}}An example weekly spread. The week number, weekdays, and days of the week are listed on the left with tasks listed on the right. Tasks from the previous two spreads are shown completed.{{< /image >}}
+
+
 
 Like I said, this is where the magic happens. You'll notice tasks from the monthly and future spreads alongside new tasks. If a task comes into my periphery and it can be done in the current week, I add it directly to the weekly spread (see the above flowchart).
 
