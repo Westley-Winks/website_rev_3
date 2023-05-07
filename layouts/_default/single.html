@@ -1,4 +1,9 @@
 {{ define "content" }}
+
+    {{ if and (gt .WordCount 400) (.Params.toc) }}
+      {{ partial "toc" . }}
+    {{ end }}
+
     {{ .Content }}
 
     {{ with .PrevInSection }}

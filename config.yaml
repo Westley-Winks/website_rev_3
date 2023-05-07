@@ -15,8 +15,8 @@ markup:
     renderer:
       unsafe: true
   tableOfContents:
-    startLevel: 1
-    endLevel: 9
+    startLevel: 2
+    endLevel: 2
   highlight:
     style: friendly
 
