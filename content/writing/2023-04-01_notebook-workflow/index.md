@@ -5,6 +5,8 @@ date: 2023-04-01
 draft: false
 tags: completed
 toc: true
+_build:
+  publishResources: false
 ---
 *How I setup and use a physical notebook for task management and to make sure nothing gets forgotten*
 
