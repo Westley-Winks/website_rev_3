@@ -7,3 +7,4 @@ Westley-Winks/until-its-not-fun-newsletter
 Westley-Winks/complibot
 Westley-Winks/paperboy
 Westley-Winks/simple-website-template
+Westley-Winks/rectangles

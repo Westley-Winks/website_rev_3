@@ -67,6 +67,23 @@
     "stargazers": 1,
     "watchers": 1
   },
+  "Westley-Winks/rectangles": {
+    "descriptionHTML": "<div>Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.</div>",
+    "forkCount": 0,
+    "homepageUrl": "https://rectangles.app",
+    "isPrivate": false,
+    "languages": "HTML CSS JavaScript",
+    "name": "rectangles",
+    "nameWithOwner": "Westley-Winks/rectangles",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "pushedAt": "2022-05-24T15:18:39Z",
+    "repositoryTopics": "",
+    "stargazers": 0,
+    "watchers": 0
+  },
   "Westley-Winks/simple-website-template": {
     "descriptionHTML": "<div>Super simple website template. Easy to modify and easy to deploy your own corner of the internet.</div>",
     "forkCount": 0,
@@ -130,13 +147,13 @@
       "color": "#e34c26",
       "name": "HTML"
     },
-    "pushedAt": "2023-03-04T03:19:34Z",
+    "pushedAt": "2023-03-18T03:18:36Z",
     "repositoryTopics": "newsletter writing hugo",
     "stargazers": 2,
     "watchers": 1
   },
   "Westley-Winks/website": {
-    "descriptionHTML": "<div>Personal website</div>",
+    "descriptionHTML": "<div>Personal website built using Hugo and TailwindCSS</div>",
     "forkCount": 0,
     "homepageUrl": "https://westleywinks.com",
     "isPrivate": false,
@@ -147,7 +164,7 @@
       "color": "#e34c26",
       "name": "HTML"
     },
-    "pushedAt": "2023-02-27T03:10:42Z",
+    "pushedAt": "2023-05-07T11:32:07Z",
     "repositoryTopics": "hugo portfolio website",
     "stargazers": 2,
     "watchers": 1
