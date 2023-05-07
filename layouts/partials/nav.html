@@ -1,0 +1,7 @@
+    <nav>
+            <a href="/">home</a>
+        {{ range .Site.Menus.main }}
+            /
+            <a href="{{ .URL }}"{{ if not (hasPrefix .URL "/") }} target="_blank" rel="noopener"{{ end }}>{{ .Name | lower }}</a>
+        {{ end }}
+    </nav>

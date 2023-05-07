@@ -1,0 +1,14 @@
+{{ define "content" }}
+    {{ .Content }}
+    {{ range $.Site.Data.books }}
+    <div>
+        <details>
+            <summary id="{{ .id }}">{{ .name }} by {{ .author }}</summary>
+            <p>{{ .description | markdownify }}</p>
+            <a href="{{ .website }}" target="_blank" rel="noopener">
+                <button>More info</button>
+            </a>
+        </details>
+    </div>
+    {{ end }}
+{{ end }}

@@ -1,0 +1,38 @@
+name: github-pages
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Run Mondays at 3:00 am (15 minutes after Update data)
+    # Ideally, this shouldn't need a schedule at all, but
+    # workflows (like Update data) can't trigger other workflows.
+    - cron: "00 3 * * 1"
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: build
+        run: hugo
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          cname: westleywinks.com

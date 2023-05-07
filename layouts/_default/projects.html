@@ -1,0 +1,19 @@
+{{ define "content" }}
+
+    {{ .Content }}
+
+    {{ range sort $.Site.Data.projects "pushedAt" "desc" -}}
+    <details style="border-color:{{ .primaryLanguage.color }}">
+            <summary>
+                {{ .name }} <code>{{ .repositoryTopics }} {{ .languages }}</code>
+            </summary>
+            {{ .descriptionHTML | safeHTML }}
+            <a href="https://github.com/{{ .nameWithOwner }}" target="_blank" rel="noopener">
+                <button>Github</button>
+            </a>
+            {{ with .homepageUrl }}<a href="{{ . }}" target="_blank" rel="noopener">
+                <button>Website</button>
+            </a>{{ end }}
+        </details>
+    {{ end }}
+{{ end }}

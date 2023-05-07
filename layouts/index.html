@@ -1,0 +1,70 @@
+{{ define "content" }}
+    {{ .Content }}
+
+    <details>
+        <summary>Who are you?</summary>
+        <p>My name is Westley Winks. I am currently a Peace Corps Volunteer doing youth development in Morocco. I spend my days building skills with youth, exchanging culture, and learning language.</p>
+    </details>
+
+    <details>
+        <summary>Where am I?</summary>
+        <p>This is my personal website and my little corner of the internet. Over the years, it has really functioned as my personal learning grounds. It gave me a space to try out new stuff like coding and writing.</p>
+
+        <p>This website is <a target="_blank" rel="noopener" href="https://github.com/Westley-Winks/website">open source</a> and built by me. It has been through many revisions and has taken inspiration from many others. Currently, I am using <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a> as the static site generator, <a href="https://newcss.net/" target="_blank" rel="noopener noreferrer">new.css</a> as my styling framework, and <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a> to host it.</p>
+
+        <p>My goal with this revision was to simplify it. It became bloated with all of my experimenting. Hence the use of a completely classless CSS framework. As always and with everything, it's a work in progress.</p>
+    </details>
+
+    <details>
+        <summary>Do you do any writing?</summary>
+        <p>I am by no means a professional but I dabble. I just kind of write what and when I feel like it. My most recent posts:</p>
+        <ul>
+            {{ range first 5 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                in {{ .Section | humanize | lower }}
+            </li>
+            {{ end }}
+        </ul>
+    </details>
+
+    <details>
+        <summary>Can I see a quick resume?</summary>
+        <h3>Education</h3>
+        <ul>
+            <li>
+                Bachelor of Science in Chemical Engineering / Oregon State University / 3.79 GPA / Magna Cum Laude / Sep 2017 - Jun 2022
+            </li>
+        </ul>
+
+        <h3>Work</h3>
+        <ul>
+            <li>
+                Peace Corps Volunteer / Morocco / Sep 2022 - Current
+            </li>
+            <li>
+                Reliability Engineering Intern / HP / Jun 2020 - Apr 2021
+            </li>
+        </ul>
+    </details>
+
+    <details id="contact">
+        <summary>How do I contact you?</summary>
+        <p>If you have any questions at all or just want to chat, I would love to hear from you.</p>
+        <ul>
+            <li>
+                <a target="_blank" rel="noopener" href="mailto://westleywinks@protonmail.com?subject=Hello!">Email</a>
+            </li>
+            <li>
+                <a target="_blank" rel="noopener" href="https://discordapp.com/users/664662599207485461">Discord</a>
+            </li>
+            <li>
+                <a target="_blank" rel="noopener" href="https://matrix.to/#/@westley-winks:matrix.org">Matrix</a>
+            </li>
+            <li>
+                <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/westley-winks">LinkedIn</a>
+            </li>
+        </ul>
+    </details>
+
+{{ end }}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ if hugo.IsProduction }} {{ partial "ga.html" . }} {{ end }}
+    {{ partial "head.html" . }}
+</head>
+<body>
+    <header>
+        {{ block "header" . }}
+        {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .Params.subtitle }}<h2>{{ . }}</h2>{{ end }}
+        {{ block "nav" . }}{{ partial "nav.html" . }}{{ end }}
+        {{ end }}
+    </header>
+    {{ block "main" . }}
+    <main>
+        {{ block "content" . }}{{ end }}
+    </main>
+    {{ end }}
+</body>
+</html>
