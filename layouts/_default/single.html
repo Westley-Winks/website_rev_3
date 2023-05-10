@@ -7,10 +7,10 @@
     {{ .Content }}
 
     {{ with .PrevInSection }}
-      <a class="previous" href="{{ .Permalink }}"><button><< {{ .Date.Format "2006-01-02" }} {{ .Title }}</button></a>
+      <a href="{{ .Permalink }}"><button><< {{ .Title }}</button></a>
     {{ end }}
     {{ with .NextInSection }}
-      <a class="next" href="{{ .Permalink }}"><button>{{ .Date.Format "2006-01-02" }} {{ .Title }} >></button></a>
+      <a href="{{ .Permalink }}"><button>{{ .Title }} >></button></a>
     {{ end }}
 
 {{ end }}
