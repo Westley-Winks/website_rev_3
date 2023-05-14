@@ -1,0 +1,30 @@
+{{ define "content" }}
+
+{{ .Content }}
+
+<!-- <h2>Books With Notes</h2> -->
+
+{{ range .Pages }}
+<details>
+    <summary>{{ .Title }}</summary>
+    {{ with .Params.quick_summary }}
+        <p>{{ . }}</p>
+    {{ else }}
+        <p>{{ .Summary }}...</p>
+    {{ end }}
+    <a href="{{ .RelPermalink }}"><button>My Notes</button></a>
+    <a href="{{ .Params.website }}" target="_blank" rel="noopener"><button>More Info</button></a>
+    </details>
+{{ end }}
+
+<!-- <h2>Books Without Notes</h2> -->
+{{ range $.Site.Data.books }}
+    <details>
+        <summary id="{{ .id }}">{{ .name }} by {{ .author }}</summary>
+        <p>{{ .description | markdownify }}</p>
+        <a href="{{ .website }}" target="_blank" rel="noopener">
+            <button>More info</button>
+        </a>
+    </details>
+    {{ end }}
+{{ end }}
