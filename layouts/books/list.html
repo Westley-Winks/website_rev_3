@@ -6,7 +6,7 @@
 
 {{ range .Pages }}
 <details>
-    <summary>{{ .Title }}</summary>
+    <summary>{{ .Title }} by {{ .Params.author }}</summary>
     {{ with .Params.quick_summary }}
         <p>{{ . }}</p>
     {{ else }}
