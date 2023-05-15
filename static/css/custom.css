@@ -1,4 +1,8 @@
 footer {
-    margin-top: 2rem;
-    opacity: 70%;
+    margin-top: 2.5rem;
+}
+
+footer * {
+    color: white;
+    opacity: 90%;
 }
