@@ -20,15 +20,22 @@ def parse_summary(post):
     idx = 0
 
     for line in post.content.splitlines():
-        if line.startswith("##"):
+        if line.startswith("## Highlights"):
             h2_blocks.append(block)
-            block = ""
+            break
+        elif line.startswith("##") and idx == 0:
+            block = line + "\n"
+            idx += 1
+        elif line.startswith("##"):
+            h2_blocks.append(block)
+            block = line + "\n"
             idx += 1
         else:
             block += line
             block += "\n"
 
-    summary = h2_blocks[1]
+    print(f"Total H2 Blocks: {idx}")
+    summary = "".join(h2_blocks)
     post.content = summary
     return post
 
