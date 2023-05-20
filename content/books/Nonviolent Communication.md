@@ -1,4 +1,5 @@
 ---
+date: 2023-05-20
 author: Marshall B. Rosenburg
 include_in_hugo: true
 quick_summary: Rosenburg provides a communication method that puts compassion and
