@@ -8,3 +8,5 @@ Westley-Winks/complibot
 Westley-Winks/paperboy
 Westley-Winks/simple-website-template
 Westley-Winks/rectangles
+Westley-Winks/website_rev_2
+Westley-Winks/website-rev-1

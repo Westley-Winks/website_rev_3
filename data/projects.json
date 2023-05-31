@@ -153,18 +153,52 @@
     "watchers": 1
   },
   "Westley-Winks/website": {
-    "descriptionHTML": "<div>Personal website built using Hugo and TailwindCSS</div>",
+    "descriptionHTML": "<div>The latest revision of my personal website built with Hugo and new.css</div>",
     "forkCount": 0,
-    "homepageUrl": "https://westleywinks.com",
+    "homepageUrl": "https://westleywinks.com/",
     "isPrivate": false,
-    "languages": "HTML Python JavaScript CSS",
+    "languages": "HTML Python",
     "name": "website",
     "nameWithOwner": "Westley-Winks/website",
     "primaryLanguage": {
       "color": "#e34c26",
       "name": "HTML"
     },
-    "pushedAt": "2023-05-07T11:32:07Z",
+    "pushedAt": "2023-05-20T22:22:28Z",
+    "repositoryTopics": "classless-css hugo newcss",
+    "stargazers": 0,
+    "watchers": 1
+  },
+  "Westley-Winks/website-rev-1": {
+    "descriptionHTML": "<div>Portfolio showing various data and coding projects done by Westley Winks along with education and experience</div>",
+    "forkCount": 0,
+    "homepageUrl": "",
+    "isPrivate": false,
+    "languages": "HTML CSS",
+    "name": "website-rev-1",
+    "nameWithOwner": "Westley-Winks/website-rev-1",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "pushedAt": "2022-03-13T03:07:11Z",
+    "repositoryTopics": "",
+    "stargazers": 0,
+    "watchers": 1
+  },
+  "Westley-Winks/website_rev_2": {
+    "descriptionHTML": "<div>Archived personal website built using Hugo and TailwindCSS</div>",
+    "forkCount": 0,
+    "homepageUrl": "",
+    "isPrivate": false,
+    "languages": "HTML Python JavaScript CSS",
+    "name": "website_rev_2",
+    "nameWithOwner": "Westley-Winks/website_rev_2",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "pushedAt": "2023-05-29T03:11:22Z",
     "repositoryTopics": "hugo portfolio website",
     "stargazers": 2,
     "watchers": 1
