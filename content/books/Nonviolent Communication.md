@@ -1,7 +1,8 @@
 ---
-date: 2023-05-20
 author: Marshall B. Rosenburg
+date: 2023-05-20
 include_in_hugo: true
+last_modified: 2023-05-20
 quick_summary: Rosenburg provides a communication method that puts compassion and
   empathy first. He provides the steps to communicating more effectively with a mix
   of concrete tools and abstract ideas.
