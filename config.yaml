@@ -18,7 +18,7 @@ markup:
     startLevel: 2
     endLevel: 2
   highlight:
-    style: friendly
+    style: github-dark
 
 menu:
   main:

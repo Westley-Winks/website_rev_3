@@ -34,7 +34,7 @@ That is exactly right. But learning is fun, so why *not*?
 Keep learning.
 
 I leave you with some Complibot samples:
-```
+```md
 /compliment: You’re great at figuring stuff out.
 
 /insult: If I typed ‘stupid’ in google, your name would pop up.

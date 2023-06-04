@@ -18,7 +18,7 @@ Developed in 2004 by John Gruber and Aaron Swartz, Markdown allows you to write 
 I put languages in quotes for a reason. Markdown is what is generally known as a lightweight markup language. Another markup language is HTML (Hyper Text Markup Language) which is what webpages are written in (including what you are reading right now!). At a general level, markup languages simply describe the content in a digital document. Lightweight markup languages (like Markdown) are designed to be simple, easy to use, and human-readable.  
 
 All of the posts of this newsletter are written with Markdown. You can see the raw Markdown of this exact post on [our GitHub repo,](https://raw.githubusercontent.com/Westley-Winks/until-its-not-fun-newsletter/main/content/posts/2022-05-13/index.md) and anyone with internet can read it. What you are reading now is the conversion of that Markdown into rendered content. In the raw Markdown, you can see that the section headings are defined by octothorpes (or hashtags for the youngsters) like this:
-```
+```md
 ## Popcorn and A Coke
 ### *Where Jacob talks movies*
 
@@ -30,7 +30,7 @@ When the conversion between Markdown and what you are seeing now happens, the pr
 
 Similar rules apply for links, bold font, italic font, and others:
 
-```
+```md
 [our GitHub repo.](https://raw.githubusercontent.com/Westley-Winks/until-its-not-fun-newsletter/main/content/posts/2022-05-13/index.md)
 
 **Bold**
@@ -51,13 +51,12 @@ This all makes writing on the internet incredibly easy. No need to mess with sty
 There have been some (controversial) standardization efforts that attempt to unify the syntax and all the different implementations of Markdown. As a result, Markdown support is coming to more and more platforms like Discord, GitHub, Slack. I think Markdown's simplicity and optimization for writing will make it increasingly relevant in the future.
 
 I leave you this week with a joke and a Markdown example for you to try. Paste this into Discord and see the Markdown magic:  
-```
+```md
 *I asked my friend "Do you know any other word for a big rock?"
 
 He said "Boulder?"*
 
 I said **"Do you know any other word for a big rock?"**
-
 ```
 
 I have the honor to be Your Obedient Servant,

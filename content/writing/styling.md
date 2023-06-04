@@ -10,7 +10,7 @@ toc: false
 I've been dabbling with web development for a while now and was looking for the best tools for the job. For basic websites, you need two things: HTML and CSS.
 
 HTML (HyperText Markup Language) describes the content of the website and looks like this:
-```
+```html
 <h1>This is a heading!</h1>
 
 <p>This is some content!</p>
@@ -24,7 +24,7 @@ HTML (HyperText Markup Language) describes the content of the website and looks 
 Every piece of content, whatever it is, is wrapped in **tags** and might have some **attributes** and **values** (`href` is an attribute with a value of `somewebsite.com`, `class` is an attribute with a value of `specialLink`, and so on) that combine into a single **element**. Now, if you wrote exactly that HTML file and deployed it, it would look awfully boring. It would be a white screen with a black font that says "This is a heading", "This is some content", a blue link to "somewebsite.com", another link, and an image.
 
 We need some way to style our content and CSS does exactly that. CSS stands for Cascading Style Sheets. It is code written to specifically style HTML by changing colors, fonts, animations, and placement on the page. The page you are reading right now (if you are reading this on the website) has CSS for a unique font and large margins on the left and right of the text. The traditional way to do styling is make a separate CSS file, target individual elements, and write specific style rules for those elements. In our example, let's say you wanted to center the `h1` element and make the font size bigger. You also want the links to be red instead of blue. This would be done like this:
-```
+```css
 h1 {
 	text-align: center;
 	font-size: 24px;
@@ -35,7 +35,7 @@ a {
 }
 ```
 Easy! You target the `h1` element and write some style rules. Then you target the `a` elements and apply different rules. As you add more content and rules, you can start to make really complex and beautiful websites. What if we wanted the special link to look different? We can use the `class` attribute to target that link specifically. It would look like this:
-```
+```css
 a {
 	color: red;
 }
@@ -52,7 +52,7 @@ Imagine you had a website with thousands of these elements and you need to indiv
 Rather than use the class attribute as a marker to refer to later in your CSS, what if there was a way to use the class attribute functionally? In comes **utility classes** and Tailwind.
 
 Tailwind is a tool that allows you to write your CSS *inside* of your HTML. To do the exact same thing as the previous example, your HTML would look like this:
-```
+```html
 <h1 class="center font-xl">This is a heading!</h1>
 
 <p>This is some content!</p>
