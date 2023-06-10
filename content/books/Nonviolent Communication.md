@@ -46,7 +46,7 @@ While I am skeptical of these big best-selling books, especially when there is s
 
 ## Footnotes
 
-[^1]: I was reminded of this from Peace Corps staff when they drew a connection between [Charlie Brown getting a rock for Halloween](https://www.youtube.com/watch?v=5tIhwITwhSg) and the Volunteers getting their permanent sites.
+[^1]: I was reminded of this by Peace Corps Morocco Country Director Susan Dwyer when she drew a connection between [Charlie Brown getting a rock for Halloween]([https://www.youtube.com/watch?v=5tIhwITwhSg](https://www.youtube.com/watch?v=5tIhwITwhSg)) and the Volunteers getting their permanent sites.
 [^2]: Rosenburg actually calls it the separation of observation and *evaluation.* However, this concept is very similar to the DIVE model of cross-cultural competence that I have significant experience with. I believe we tend to *interpret* rather than properly *evaluate* so I switched it here.
 [^3]: Rosenburg offers lists of feelings to make it easier to find the language that describes your feelings. I prefer using the [Feelings Wheel.](https://feelingswheel.com/) I know it's kind of cheesy but it is an excellent tool for finding the language you need.
 [^4]: I stumbled on one of my favorite quotes of all time here: "Don't just do something, stand there." I first heard this from John Green in his podcast *The Anthropocene Reviewed.* It is easy to immediately try to solve others' problems or turn the spotlight to yourself to avoid awkwardness but most of the time, people just need an ear to listen to rather than a hand.
