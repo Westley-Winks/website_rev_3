@@ -12,7 +12,9 @@
     {{ else }}
         <p>{{ .Summary }}...</p>
     {{ end }}
-    <a href="{{ .RelPermalink }}"><button>My Notes</button></a>
+    {{ if .RelPermalink }}
+        <a href="{{ .RelPermalink }}"><button>My Notes</button></a>
+    {{ end }}
     <a href="{{ .Params.website }}" target="_blank" rel="noopener"><button>More Info</button></a>
     </details>
 {{ end }}
