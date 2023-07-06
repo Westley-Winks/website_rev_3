@@ -2,10 +2,10 @@
 
 {{ .Content }}
 
-{{ range shuffle (.Pages) }}
+{{ range .Pages.ByLastmod.Reverse }}
 <details>
   <summary>{{ .Title }}</summary>
-  {{ with .Params.description }}
+  {{ with .Description }}
     <p>{{ . }}</p>
   {{ else }}
     <p>{{ .Summary }}...</p>
