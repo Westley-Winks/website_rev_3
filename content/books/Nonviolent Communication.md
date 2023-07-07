@@ -1,14 +1,15 @@
 ---
-date: 2023-05-20
-title: Nonviolent Communication
 author: Marshall B. Rosenburg
-tags: books/nonfiction, ps/layer_2
-website:  https://www.nonviolentcommunication.com/product/nvc
-quick_summary: Rosenburg provides a communication method that puts compassion and empathy first. He provides the steps to communicating more effectively with a mix of concrete tools and abstract ideas.
-status: read
+date: 2023-05-20
 include_in_hugo: true
-last_modified: 2023-05-20
+lastmod: 2023-05-20
+summary: Rosenburg provides a communication method that puts compassion and empathy first. He provides the steps to communicating more effectively with a mix of concrete tools and abstract ideas.
+status: read
+tags: books/nonfiction
+title: Nonviolent Communication
+website: https://www.nonviolentcommunication.com/product/nvc
 ---
+
 ## Summary
 
 Nonviolent communication (NVC) is a way of communicating that manifests compassion and "leads us to give from the heart". The four components of NVC are: **observations, feelings, needs, and requests.** This is a process where each one feeds into the next.

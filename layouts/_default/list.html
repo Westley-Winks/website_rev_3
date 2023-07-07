@@ -8,7 +8,7 @@
   {{ with .Description }}
     <p>{{ . }}</p>
   {{ else }}
-    <p>{{ .Summary }}...</p>
+    <p>{{ .Summary }} {{ if .Truncated }}...{{ end }}</p>
   {{ end }}
   <a href="{{ .RelPermalink }}"><button>Continue Reading</button></a>
 </details>

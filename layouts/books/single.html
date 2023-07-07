@@ -5,7 +5,7 @@
 
 <br>
 
-{{ with .Params.last_modified }}
+{{ with .Lastmod.Format "2006-01-02" }}
   <p>Last Modified: {{ . }}</p>
 {{ end }}
 

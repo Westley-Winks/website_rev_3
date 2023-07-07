@@ -1,14 +1,15 @@
 ---
-date: 2023-06-04
-title: So Good They Can't Ignore You
 author: Cal Newport
-tags: books/nonfiction
-website: https://calnewport.com/writing/
-quick_summary: "A nice short roadmap to finding a truly meaningful career. Ignore what you heard about trying to match your job to your passion. Instead,  gain rare and valuable skills that you can trade in later for desirable career traits such as control and a mission."
-status: read
+date: 2023-06-04
 include_in_hugo: true
-last_modified: 2023-06-04
+lastmod: 2023-06-04
+status: read
+summary: "A nice short roadmap to finding a truly meaningful career. Ignore what you heard about trying to match your job to your passion. Instead,  gain rare and valuable skills that you can trade in later for desirable career traits such as control and a mission."
+tags: books/nonfiction
+title: So Good They Can't Ignore You
+website: https://calnewport.com/writing/
 ---
+
 ## Summary
 
 The common advice for finding a compelling career that you actually want to work in can be explained as the Passion Hypothesis: Being happy with your job requires you to know what you are passionate about and *then* find a job that matches that passion. Newport argues the exact opposite and that **working right trumps finding the right work.** Job satisfaction is highly complex but matching your job to your passion is not one of the reasons people are happy in their careers.
@@ -45,9 +46,9 @@ In conclusion, forget about trying to discover your passion and hope that you ca
 
 ## My Thoughts
 
-The first part of this book really went against everything I have ever been taught about finding meaningful work. I have always been told to just follow my passion and the money and satisfaction will follow. 
+The first part of this book really went against everything I have ever been taught about finding meaningful work. I have always been told to just follow my passion and the money and satisfaction will follow.
 
-I really like now having something to call the aspects of the craftsman mindset. I try my hardest to add value wherever I can in my life. Now I have a good metaphor and specific label for thinking about how I approach doing that. 
+I really like now having something to call the aspects of the craftsman mindset. I try my hardest to add value wherever I can in my life. Now I have a good metaphor and specific label for thinking about how I approach doing that.
 
 Same thing for career capital. I like to think about skills, frameworks, and tools that I have in my brain as a toolbox that I pick and choose from as I go through life to see if one of them helps my current problem. I have never really applied the same thinking to a career until now.
 

@@ -1,14 +1,15 @@
 ---
-date: 2023-06-27
-title: Permission to Feel
 author: Marc Brackett
-tags: books/nonfiction
-website: https://www.marcbrackett.com/about/book-permission-to-feel/
-quick_summary: Brackett provides five key emotion skills that are the basis of the book and a framework for becoming more emotionally intelligent and empathetic.
-status: read
+date: 2023-06-27
 include_in_hugo: true
-last_modified: 2023-06-29
+lastmod: 2023-06-29
+summary: Brackett provides five key emotion skills that are the basis of the book and a framework for becoming more emotionally intelligent and empathetic.
+status: read
+tags: books/nonfiction
+title: Permission to Feel
+website: https://www.marcbrackett.com/about/book-permission-to-feel/
 ---
+
 ## Summary
 
 We all experience emotions every moment of every day. Our emotional state is one of the most important parts of our lives. It is incredibly important to be able to identify, express, and harness our feelings to lead effective and satisfying lives. Some think emotional intelligence or emotion skills are something fuzzy or too squishy for them.[^1] **But emotion skills, like other mental skills, allow us to think better and enrich our own lives and the lives of those around us. "There's nothing squishy about that."**
