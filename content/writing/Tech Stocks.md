@@ -1,11 +1,10 @@
 ---
-title: "Tech Stocks"
-slug: tech-stocks
-date: 2022-06-17
-draft: false
-toc: false
+title: Tech Stocks
+date: 2022-06-17T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-06-17/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-06-17/) newsletter.*
 
 Right now is one of the most interesting times in my life in many ways. One of those is that I can finally understand macroeconomic trends and see them play out right in front of me. My economics teacher from high school told me that the Federal Reserve raises interest rates (among other things) which has a cascading effect to reduce the money supply in the United States all in an effort to reduce inflation to a manageable rate. That made sense and all but I am now watching Jerome Powell walk the fine line between curbing inflation and keeping the economy out of a recession all in real time.
 

@@ -1,11 +1,10 @@
 ---
-title: "Have a Website"
-slug: have-a-website
-date: 2022-07-08
-draft: false
-toc: false
+title: Have a Website
+date: 2022-07-08T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-07-08/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-07-08/) newsletter.*
 
 After much prep, I finally decided to actually start freelancing this week. I noticed in my hometown that the majority of small businesses there don't have any online presence. They do advertising in the local newspaper, word of mouth, and some use only Facebook. In 2022, there is a whole population of people that these small businesses are missing by not being online. Before I leave for a while (different post, different day), I would like to give back to my community by offering to build them basic websites that function as online business cards.
 

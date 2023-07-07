@@ -1,11 +1,11 @@
 ---
 title: The Assignment
 date: 2022-08-22
-draft: false
 description: "In my first post, I am writing from home to introduce the blog and very simply describe my role as a Peace Corps volunteer"
+include_in_hugo: true
 ---
 
-On December 24, 2020, I applied for the Peace Corps. I was entering my last terms of college and knew that I wanted to join the Peace Corps when I graduated. 
+On December 24, 2020, I applied for the Peace Corps. I was entering my last terms of college and knew that I wanted to join the Peace Corps when I graduated.
 
 A year and a half and one pandemic later, I received an official invite: Youth Development Specialist in Morocco set to depart September 2022. After reading the invite and job description, I did a fist pump, had a small joyful cry on the porch, and accepted the position. It couldn't have come at a more opportune time.
 

@@ -1,13 +1,11 @@
 ---
 title: APIs
-slug: apis
-date: 2022-06-10
-draft: false
-toc: false
+date: 2022-06-10T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-06-10/) newsletter.*
 
-[Last week](https://untilitsnotfun.com/posts/2022-06-03/#the-tech-shelf), I talked about how the internet works. Clients make requests to servers and servers respond to those requests. Today, let's go deeper into how programs and computers can talk to each other: APIs.
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-06-10/) newsletter.*
+ [Last week]({{< ref "What Is The Internet" >}}), I talked about how the internet works. Clients make requests to servers and servers respond to those requests. Today, let's go deeper into how programs and computers can talk to each other: APIs.
 
 Back when computers were just starting out, the companies producing them built everything for that computer (the hardware, the chips, the software) and that one company put all of these together to make it work. Since computers became ultra popular, it opened up the market such that entire companies could be formed around building each of these components: Intel makes chips, Apple provides low-level software and hardware, and there are thousands of companies that build applications (Facebook, Chrome, Discord, etc.). We now have so many different applications and they all need to connect so that they can be useful to us.
 
@@ -25,7 +23,7 @@ But there are companies out there that are really good at processing payments. W
 
 Later on, I might want to include shipping time estimates so customers know roughly when their shipment will arrive. Again, I could spend months making some kind of shipping model to estimate a shipping time. But why not just bolt on the FedEx API that already has that information? My application would ask the FedEx API for a shipping estimate and I could provide that information to the customer.
 
-These are just a few examples of all of the possiblities that APIs have opened up. Developers can now spend less time reinventing the wheel and more time innovating. APIs have allowed really unique applications to be built with speed and quality never before seen while opening the door for companies to specialize. All of the software startups in Silicon Valley have APIs to thank for that.
+These are just a few examples of all of the possibilities that APIs have opened up. Developers can now spend less time reinventing the wheel and more time innovating. APIs have allowed really unique applications to be built with speed and quality never before seen while opening the door for companies to specialize. All of the software startups in Silicon Valley have APIs to thank for that.
 
 I have the honor to be Your Obedient Servant,
 

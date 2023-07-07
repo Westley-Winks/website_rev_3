@@ -1,11 +1,10 @@
 ---
-title: "Markdown"
-slug: markdown
+title: Markdown
 date: 2022-05-13
-draft: false
-toc: false
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-05-13/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-05-13/) newsletter.*
 
 Humans write *a lot* and most of it is done on computers these days. If someone asked you to write them a letter, where would you start? Most would open up Word or Google Docs. We all know the headaches that these word processors can cause: formatting not doing what you want it to, files getting lost, the person you are sending files to doesn't use the same processor, et cetera.
 
@@ -57,6 +56,7 @@ I leave you this week with a joke and a Markdown example for you to try. Paste t
 He said "Boulder?"*
 
 I said **"Do you know any other word for a big rock?"**
+
 ```
 
 I have the honor to be Your Obedient Servant,

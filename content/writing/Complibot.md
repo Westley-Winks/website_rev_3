@@ -1,11 +1,10 @@
 ---
-title: Complibot
-slug: complibot
+title: "Complibot"
 date: 2022-04-29
-draft: false
-toc: false
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-04-29/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-29/) newsletter.*
 
 In January 2022, I built my first Discord bot. It was very crudely put together and completely unreliable. Jacob wanted a bot in the server that would randomly insult our friends during the day. Put simply, he wanted a bot that was mildly an asshole. On that weekday in Powell Butte, Complibot was born.
 
@@ -21,7 +20,7 @@ Why am I talking about a failed bot I built months ago? Two reasons:
 1. I released a newly developed and much, *much* better version, Complibot v1
 2. I recently applied for a job at Discord so I have been thinking about bots lately
 
-For Complibot v1, I completely rebuilt it from the ground up. In most of Discord's guides and resources, they use Javascript. Any time is a good time to learn a new programming language! In one weekend, I had a bot that works every time, is deployed much more reliably, and [is open source.](https://github.com/Westley-Winks/complibot)  I came out with Javascript knowledge and continuous deployment knowledge.
+For Complibot v1, I completely rebuilt it from the ground up. In most of Discord's guides and resources, they use Javascript. Any time is a good time to learn a new programming language! In one weekend, I had a bot that works every time, is deployed much more reliably, and [is open source.](https://github.com/Westley-Winks/complibot) I came out with Javascript knowledge and continuous deployment knowledge.
 
 Discord's [getting started guide](https://discord.com/developers/docs/getting-started) helped immensely. I took most of Complibot's parts and pieces from their demo project. Complibot now has full support for slash commands. When you start typing a Complibot command, Discord shows the description of what the command does and also prompts the user what to put in after the command.
 

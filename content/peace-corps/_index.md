@@ -2,6 +2,7 @@
 title: Peace Corps
 menu: main
 weight: 1
+include_in_hugo: true
 ---
 
 I am a Peace Corps Volunteer serving in the Youth in Development sector in Morocco. I teach English and life skills to youth, share American culture, and learn and share Moroccan culture.

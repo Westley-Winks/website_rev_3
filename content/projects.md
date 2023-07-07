@@ -4,6 +4,7 @@ title: Projects
 menu: main
 weight: 3
 layout: projects
+include_in_hugo: true
 ---
 
 These are my public coding projects I have done and posted to GitHub.

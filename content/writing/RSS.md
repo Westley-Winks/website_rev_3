@@ -1,13 +1,12 @@
 ---
-title: "RSS"
-slug: rss
-date: 2022-05-20
-draft: false
-toc: false
+title: RSS
+date: 2022-05-20T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-05-20/) newsletter.*
 
-Much like my discovery of [IRC,](https://untilitsnotfun.com/posts/2022-04-15/#the-tech-shelf) I recently found a technology called RSS ... and have since been wondering why nobody is talking about it and why I even had to discover it in the first place.
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-05-20/) newsletter.*
+
+Much like my discovery of [IRC]({{< ref "IRC" >}}), I recently found a technology called RSS … and have since been wondering why nobody is talking about it and why I even had to discover it in the first place.
 
 RSS stands for Really Simple Syndication. It is a way for anyone that makes content on the internet to broadcast out "Hey I just made a new post and here it is!" Have you ever seen that little orange symbol that looks like a rotated Wi-Fi symbol? That is a link to a website's RSS feed!
 
@@ -35,4 +34,4 @@ If you want to get started, I recommend [Feedbin](https://feedbin.com/) as an ag
 
 A handclasp over the miles,
 
-Westley
+Westley  

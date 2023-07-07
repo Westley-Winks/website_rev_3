@@ -1,20 +1,14 @@
 ---
-author: Cal Newport
 date: 2023-06-04
+title: So Good They Can't Ignore You
+author: Cal Newport
+tags: books/nonfiction
+website: https://calnewport.com/writing/
+quick_summary: "A nice short roadmap to finding a truly meaningful career. Ignore what you heard about trying to match your job to your passion. Instead,  gain rare and valuable skills that you can trade in later for desirable career traits such as control and a mission."
+status: read
 include_in_hugo: true
 last_modified: 2023-06-04
-quick_summary: A nice short roadmap to finding a truly meaningful career. Ignore what
-  you heard about trying to match your job to your passion. Instead,  gain rare and
-  valuable skills that you can trade in later for desirable career traits such as
-  control and a mission.
-slug: so-good-they-can't-ignore-you
-status: read
-tags: books/nonfiction
-title: So Good They Can't Ignore You
-toc: false
-website: https://calnewport.com/writing/
 ---
-
 ## Summary
 
 The common advice for finding a compelling career that you actually want to work in can be explained as the Passion Hypothesis: Being happy with your job requires you to know what you are passionate about and *then* find a job that matches that passion. Newport argues the exact opposite and that **working right trumps finding the right work.** Job satisfaction is highly complex but matching your job to your passion is not one of the reasons people are happy in their careers.
@@ -61,3 +55,4 @@ Same thing for career capital. I like to think about skills, frameworks, and too
 
 [^1]: I am currently a Peace Corps Volunteer so I was reminded of [JFK's Inaugural Address](https://www.archives.gov/milestone-documents/president-john-f-kennedys-inaugural-address) when I read this: "Ask not what your country can do for you – ask what you can do for your country."
 [^2]: Term coined by Stuart Kauffman.
+

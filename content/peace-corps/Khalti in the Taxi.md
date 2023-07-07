@@ -1,11 +1,10 @@
 ---
 title: Khalti in the Taxi
-slug: khalti-in-the-taxi
 date: 2023-03-09
 draft: false
 description: "I had some extra help from a comforting stranger on the way to my final site."
+include_in_hugo: true
 ---
-
 I had just said goodbye to my first host family, to the Peace Corps staff, and to the volunteers that I wouldn't see for the next three months. I was now on my way to my final site to live there for the next two years.
 
 I had all of my belongings; those that I brought from home and the couple of things I had acquired here. I was to take a total of three taxis that day, the first of which was shared with some other volunteers and "our" luggage (In reality, it was *one* volunteer's luggage that took up most of the space. You know who you are!). After we reached Marrakech, the most touristic city in Morocco, I was on my own.
@@ -20,7 +19,7 @@ In Morocco, it's common to call women older than you *khalti* (literally "my mat
 
 I spent most of the ride looking out the window at all the new views I hadn't yet seen and occasionally tried to focus on my language flashcards so that I would sound like I had learned something when I met my host family. As we were approaching the city that contained my last taxi and the home stretch, *khalti* leaned forward to the driver to ask a question. I recognized a few of the words: where, taxi, the name of my town. They exchanged some words and, in my three-month-old Arabic, I explained to her as best I could that I was going to the same place she was and I didn't know where the taxi stand was either. She said some more words that I didn't understand, smiled warmly, and nodded.
 
-We get to where we are going and everyone dismounts from the taxi. I take the longest because I have a total of four bags to grab. I turn out of the trunk of the taxi with all my stuff to find *khalti* waiting for me, telling me *mashi mushkil* (no problem) and kindly gesturing to follow her. Without exchanging any words, we walk around the building and across the street to the taxi stand. 
+We get to where we are going and everyone dismounts from the taxi. I take the longest because I have a total of four bags to grab. I turn out of the trunk of the taxi with all my stuff to find *khalti* waiting for me, telling me *mashi mushkil* (no problem) and kindly gesturing to follow her. Without exchanging any words, we walk around the building and across the street to the taxi stand.
 
 She leads me to the correct place and helps me load my stuff into the last taxi and tells me *3shra* while showing me a 10 dirham coin. I give her the money and she pays and deals with the taxi driver for us while I grab my seat. All I can give in return is *shukran* (thank you). As we depart, she turns around in the shotgun seat and quizzically gives me a thumbs up to make sure I am good and comfortable.
 
@@ -32,7 +31,6 @@ Being kind doesn't have to be some big, drawn out spectacle. Sometimes all it ta
 
 Hearty in my approbation and lavish in my praise,
 
-Westley Winks
-
+Westley Winks  
 
 *DISCLAIMER: The contents of this website are mine personally and do not reflect any position of the U.S. Government or the Peace Corps.*

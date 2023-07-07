@@ -1,11 +1,10 @@
 ---
 title: "Jammy Jellyfish"
-slug: jammy-jellyfish
 date: 2022-04-22
-draft: false
-toc: false
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-04-22/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-22/) newsletter.*
 
 `nano content/posts/2022-04-22/index.md`
 

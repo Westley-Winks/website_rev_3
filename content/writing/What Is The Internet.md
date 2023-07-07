@@ -1,11 +1,10 @@
 ---
-title: "What Is The Internet?"
-slug: what-is-the-internet
-date: 2022-06-03
-draft: false
-toc: false
+title: What Is The Internet
+date: 2022-06-03T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-06-03/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-06-03/) newsletter.*
 
 The internet. We all know it. We all love it.
 
@@ -40,7 +39,7 @@ Now to sum this up so you can explain it at your next dinner party. The internet
 
 Keep in mind, this is a heavily simplified model of the internet so that I can understand it and put it into plain English for you to have a high level understanding of what goes on behind the scenes when you use your devices.
 
-Come back next week for part two where we dive into a huge building block of the internet: APIs.  
+Come back next week for part two where we dive into a huge building block of the internet: [APIs]({{< ref "APIs" >}}).  
 
 I have the honor to be Your Obedient Servant,
 

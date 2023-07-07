@@ -1,11 +1,10 @@
 ---
-title: "Sorting Algorithms"
-slug: sorting-algorithms
-date: 2022-06-24
-draft: false
-toc: false
+title: Sorting Algorithms
+date: 2022-06-24T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-06-24/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-06-24/) newsletter.*
 
 This Tuesday, Jacob and I found ourselves with a pile of hundreds of football and baseball cards searching each one on an app to get a rough estimate of their value. We started off by just searching the name of each player one by one but that quickly grew boring and would have taken us months.
 
@@ -21,7 +20,7 @@ When we talk about sorting, size matters. The more there is to sort in one go, t
 
 Let's start with one of the most simple algorithms: **Bubble Sort**. This sorting algorithm is kind of the punching bag of computer science because it is so simple and inefficient. To sort a bookshelf by alphabetical order, I would compare the first and second book. If those two are in alphabetical order, move on to comparing book two and book three. If they aren't in alphabetical order, switch them and compare book two and book three. Repeat this process until there are no more switches and your books are sorted.
 
-This will work everytime but quickly becomes arduous with a lot of books. Bubble sort is what is known as a **quadratic time** algorithm. This means that if the amount of books you need to sort doubles, the amount of time it will take you (on average) will quadruple. If the amount of books triples, the amount of time spent sorting is multiplied by 9.
+This will work every time but quickly becomes arduous with a lot of books. Bubble sort is what is known as a **quadratic time** algorithm. This means that if the amount of books you need to sort doubles, the amount of time it will take you (on average) will quadruple. If the amount of books triples, the amount of time spent sorting is multiplied by 9.
 
 Let's say it takes me one hour to sort 100 books using this algorithm. If I go to the bookstore and get another 100 books, it would take me 4 hours to sort all of them. Then if I ended up with 1,000 books, it would take me *100 hours* to sort them all. You can see how this wouldn't work very well when the scale gets large.
 
@@ -37,7 +36,7 @@ Mergesort changed sorting in the computer science world forever. It is fast and 
 
 Yes, with an algorithm called **Bucket Sort**. This algorithm first groups things into less granular buckets until each bucket has a manageable number of items. Remember when I said that sorting 50 books twice is faster than sorting 100 once? That is the fundamental idea with Bucket sort. It reduces the size of the shelf you are sorting into many smaller shelves (size matters).
 
-For my bookshelf, one way to do a bucket sort is choosing buckets A-F, G-M, N-S, and T-Z. Then I would go through my random pile of books and drop each one into its correponding bucket. By doing this, I have reduced my one big bookshelf into four smaller ones. Within these bucket, I could do something like an Insertion sort to get a perfect sort. Then I would put each sorted bucket next to one another on the shelf.
+For my bookshelf, one way to do a bucket sort is choosing buckets A-F, G-M, N-S, and T-Z. Then I would go through my random pile of books and drop each one into its corresponding bucket. By doing this, I have reduced my one big bookshelf into four smaller ones. Within these bucket, I could do something like an Insertion sort to get a perfect sort. Then I would put each sorted bucket next to one another on the shelf.
 
 The trick is choosing buckets. If you end up with 99% of your items in one bucket, you haven't really done much. To smartly choose buckets, you need to know the distribution of the items you are sorting. Let's say most of my books are written by Malcolm Gladwell, John Green, and Tom Griffiths. Using the even A-F/G-M/N-S/T-Z split doesn't make sense because most of my books will be in bucket two. A better split would be A-F/G/H-Z or even A-F/Gl/Gr/H-Z to make all of the buckets have the same number of items in each.
 

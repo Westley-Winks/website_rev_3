@@ -1,11 +1,10 @@
 ---
-title: "IRC: Internet Relay Chat"
-slug: irc
+title: IRC
 date: 2022-04-15
-draft: false
-toc: false
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-04-15/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-15/) newsletter.*
 
 /join \#untilitsnotfun
 
@@ -27,7 +26,7 @@ toc: false
 
 *(1:19:42 PM)* dadofapollo: My absolute favorite channel I have found is ##books on the Libera server. On a normal day, there are only about 50 people in the channel, making it feel more cozy and personal. People talk about what they are reading, their opinions about those books and authors, and anything else book related. In my real life social circle, I don't really have anyone to talk about books with because I have a small circle and it takes time to get through a book. In ##books, there is a constant stream of 50 people talking about books I probably wouldn't have even heard of otherwise.
 
-*(1:28:18 PM)* dadofapollo: I am going to continue talking in these IRC spaces until it completely dies off. I hope to develop new relationships with these people completely through this simple text-based exchange network. I want to recognize  their nicks and associate them with good conversation. Most importantly, I hope people in the future will say about me "Oh there's dadofapollo! I have no idea where he is or what he looks like but I do know that he has a good heart and that he is my friend."
+*(1:28:18 PM)* dadofapollo: I am going to continue talking in these IRC spaces until it completely dies off. I hope to develop new relationships with these people completely through this simple text-based exchange network. I want to recognize their nicks and associate them with good conversation. Most importantly, I hope people in the future will say about me "Oh there's dadofapollo! I have no idea where he is or what he looks like but I do know that he has a good heart and that he is my friend."
 
 /quit see you next week
 

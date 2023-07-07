@@ -1,19 +1,14 @@
 ---
-author: Marshall B. Rosenburg
 date: 2023-05-20
+title: Nonviolent Communication
+author: Marshall B. Rosenburg
+tags: books/nonfiction, ps/layer_2
+website:  https://www.nonviolentcommunication.com/product/nvc
+quick_summary: Rosenburg provides a communication method that puts compassion and empathy first. He provides the steps to communicating more effectively with a mix of concrete tools and abstract ideas.
+status: read
 include_in_hugo: true
 last_modified: 2023-05-20
-quick_summary: Rosenburg provides a communication method that puts compassion and
-  empathy first. He provides the steps to communicating more effectively with a mix
-  of concrete tools and abstract ideas.
-slug: nonviolent-communication
-status: read
-tags: books/nonfiction, ps/layer_2
-title: Nonviolent Communication
-toc: false
-website: https://www.nonviolentcommunication.com/product/nvc
 ---
-
 ## Summary
 
 Nonviolent communication (NVC) is a way of communicating that manifests compassion and "leads us to give from the heart". The four components of NVC are: **observations, feelings, needs, and requests.** This is a process where each one feeds into the next.
@@ -50,3 +45,4 @@ While I am skeptical of these big best-selling books, especially when there is s
 [^2]: Rosenburg actually calls it the separation of observation and *evaluation.* However, this concept is very similar to the DIVE model of cross-cultural competence that I have significant experience with. I believe we tend to *interpret* rather than properly *evaluate* so I switched it here.
 [^3]: Rosenburg offers lists of feelings to make it easier to find the language that describes your feelings. I prefer using the [Feelings Wheel.](https://feelingswheel.com/) I know it's kind of cheesy but it is an excellent tool for finding the language you need.
 [^4]: I stumbled on one of my favorite quotes of all time here: "Don't just do something, stand there." I first heard this from John Green in his podcast *The Anthropocene Reviewed.* It is easy to immediately try to solve others' problems or turn the spotlight to yourself to avoid awkwardness but most of the time, people just need an ear to listen to rather than a hand.
+

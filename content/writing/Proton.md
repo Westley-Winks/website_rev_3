@@ -1,11 +1,10 @@
 ---
-title: "Proton"
-slug: proton
-date: 2022-05-27
-draft: false
-toc: false
+date: 2022-05-27T19:00:00-07:00
+include_in_hugo: true
+title: Proton
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-05-27/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-05-27/) newsletter.*
 
 I have been using [Proton Mail](https://proton.me/) for a few months now instead of using GMail. Proton offers secure, encrypted email that gets locked up in a such a way that only you and the recipient see the message.
 
@@ -27,8 +26,6 @@ The trick is that you have to trust your VPN service to not do the exact same th
 
 I barely scratched the surface of why Proton offers a fantastic service and I didn't even get into their mission and why people should pay for this service to support Proton's mission. Proton just got a huge update with a re-branding and a simplified pricing structure. Privacy focused companies usually stall out after a certain amount of growth simply because people generally don't care about their online privacy. This is a huge step in the internet privacy space and it is exciting to see a solid company with a strong mission grow into an actual competitor to the more mainstream companies.
 
-Next up we have a special guest, Mary McLane! Good with her words and quick on her feet, Mary is a dear friend of mine.
-
 I have the honor to be Your Obedient Servant,
 
-Westley
+Westley  

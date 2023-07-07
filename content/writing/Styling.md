@@ -1,11 +1,10 @@
 ---
 title: "Styling"
-slug: styling
-date: 2022-07-22
-draft: false
-toc: false
+date: 2022-07-22T19:00:00-07:00
+include_in_hugo: true
 ---
-*This piece first appeared on the [Until It's Not Fun](https://untilitsnotfun.com/posts/2022-07-22/) newsletter.*
+
+*This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-07-22/) newsletter.*
 
 I've been dabbling with web development for a while now and was looking for the best tools for the job. For basic websites, you need two things: HTML and CSS.
 

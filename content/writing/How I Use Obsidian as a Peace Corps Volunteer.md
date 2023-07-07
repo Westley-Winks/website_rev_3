@@ -1,10 +1,10 @@
 ---
 date: 2023-07-06
+description: A simple guide for how I use the note-taking tool Obsidian in my daily life and work as a Peace Corps Volunteer
 include_in_hugo: true
 lastmod: 2023-07-06
 title: How I Use Obsidian as a Peace Corps Volunteer
 toc: true
-description: A simple guide for how I use the note-taking tool Obsidian in my daily life and work as a Peace Corps Volunteer
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ Every note that you write in Obsidian gets typed in and formatted according to a
 
 For example, to make a big heading add an octothorpe/hashtag (#) before the heading words. If you want a smaller header, use two. To **bold words**, wrap them in two asterisks (\*) on either side. For *italicizing words*, wrap them in one asterisk. Lists are made with either dashes for bullet lists or numbers for ordered lists.
 
-Those are the basics to get started but I wrote a [longer piece]({{< relref "markdown" >}}) on this a while ago if you are interested and there is a good [cheat sheet](https://www.markdownguide.org/basic-syntax/) available.
+Those are the basics to get started but I wrote a [longer piece]({{< ref "Markdown" >}}) on this a while ago if you are interested and there is a good [cheat sheet](https://www.markdownguide.org/basic-syntax/) available.
 
 ## Basic Functions
 
@@ -204,9 +204,9 @@ All you need to do is open the command palette from the note you want to export 
 
 A major selling point for Obsidian is the ability to link to notes from other notes. There is a big philosophy of "linking your thinking" in the personal knowledge management circles. With enough links, your Obsidian notes will start to turn into your own personal Wikipedia.
 
-A thorough example of how I use linking is with my DnD notes. Throughout the session, I will link to existing characters or locations that we have encountered so I can quickly click through to those other notes and remind myself of important features. This is done by using the `[[]]` syntax. Whatever note name is inside the brackets will be linked to.
+A thorough example of how I use linking is with my DnD notes. Throughout the session, I will link to existing characters or locations that we have encountered so I can quickly click through to those other notes and remind myself of important features. This is done by using the [[]&ZeroWidthSpace;] syntax. Whatever note name is inside the brackets will be linked to.
 
-Linking can be extended to embedding. Under the **Recap** heading, I embed the last session's summary so it automatically populates and I don't have to copy and paste and try and keep them in sync. Embedding is done with the `![[]]` syntax.
+Linking can be extended to embedding. Under the **Recap** heading, I embed the last session's summary so it automatically populates and I don't have to copy and paste and try and keep them in sync. Embedding is done with the ![[]&ZeroWidthSpace;] syntax.
 
 ## Further Reading and Resources
 
