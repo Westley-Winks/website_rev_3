@@ -10,6 +10,8 @@
     <meta http-equiv='Cache-Control' content='no-cache'>
     <meta http-equiv='imagetoolbar' content='no'>
 
+    {{ template "_internal/opengraph.html" . }}
+
     <title>{{ .Title }}{{ if not .IsHome }} | {{ site.Title }}{{ end }}</title>
 
     <link rel="shortcut icon" type="image/png" href="{{ "assets/favicon.png" | relURL }}"/>
