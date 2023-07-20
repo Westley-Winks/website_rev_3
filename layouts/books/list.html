@@ -7,11 +7,7 @@
 {{ range .Pages }}
 <details>
     <summary>{{ .Title }} by {{ .Params.author }}</summary>
-    {{ with .Description }}
-        <p>{{ . }}</p>
-    {{ else }}
         <p>{{ .Summary }} {{ if .Truncated }}...{{ end }}</p>
-    {{ end }}
     {{ if .RelPermalink }}
         <a href="{{ .RelPermalink }}"><button>My Notes</button></a>
     {{ end }}
