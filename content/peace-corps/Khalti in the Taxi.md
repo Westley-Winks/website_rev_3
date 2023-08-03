@@ -1,9 +1,9 @@
 ---
-title: Khalti in the Taxi
 date: 2023-03-09
-draft: false
 description: "I had some extra help from a comforting stranger on the way to my final site."
+draft: false
 include_in_hugo: true
+title: Khalti in the Taxi
 ---
 I had just said goodbye to my first host family, to the Peace Corps staff, and to the volunteers that I wouldn't see for the next three months. I was now on my way to my final site to live there for the next two years.
 

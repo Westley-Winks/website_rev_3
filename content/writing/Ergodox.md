@@ -1,7 +1,7 @@
 ---
-title: Ergodox
 date: 2022-04-11T16:09:32-07:00
 include_in_hugo: true
+title: Ergodox
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-11/) newsletter.*

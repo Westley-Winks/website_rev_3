@@ -1,7 +1,7 @@
 ---
-title: Have a Website
 date: 2022-07-08T19:00:00-07:00
 include_in_hugo: true
+title: Have a Website
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-07-08/) newsletter.*

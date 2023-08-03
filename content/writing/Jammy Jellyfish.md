@@ -1,7 +1,7 @@
 ---
-title: "Jammy Jellyfish"
 date: 2022-04-22
 include_in_hugo: true
+title: "Jammy Jellyfish"
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-22/) newsletter.*

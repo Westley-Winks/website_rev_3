@@ -48,3 +48,4 @@ I was rooting for Mariam the entire time but she just kept getting beat down and
 There are similar themes between this book and *The Great Alone*. Both involve an abusive husband/father that oppresses and abuses the women in his life. The violence and time span of *A Thousand Splendid Suns* was just so much more gut-wrenching and unrelenting. The female characters in *The Great Alone* were much different. They were strong, independent, and triumphed over challenges. While the women in *A Thousand Splendid Suns* were strong and persevered in their own way, they were so utterly oppressed that they couldn't ever come out on top.
 
 What a wonderfully painful book. *A Thousand Splendid Suns* is chock-full of loss, grief, pain, and sadness but I found myself wanting to read more. I kept turning the page in hope for some good fortune for Laila and Mariam. If you are looking for an emotionally challenging book, I highly recommend it.
+

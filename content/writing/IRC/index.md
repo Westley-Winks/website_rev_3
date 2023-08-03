@@ -1,7 +1,7 @@
 ---
-title: IRC
 date: 2022-04-15
 include_in_hugo: true
+title: IRC
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-15/) newsletter.*
@@ -18,7 +18,7 @@ include_in_hugo: true
 
 *(12:35:56 PM)* dadofapollo: The interface looks familiar and old *in a good way*. It is a line-based interface so each message exists on one line. Here is what a typical exchange looks like (with nicks blurred out):
 
-![Picture showing typical interface for an IRC channel. It shows people talking about Stephen King books.](irc_example.png)
+![Picture showing typical interface for an IRC channel. It shows people talking about Stephen King books.](irc_example.webp)
 
 *(12:36:28 PM)* dadofapollo: There are no fancy profile pictures, gifs, pictures, or emojis - it is simply a space for conversation.
 

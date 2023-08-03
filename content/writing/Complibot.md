@@ -1,7 +1,7 @@
 ---
-title: "Complibot"
 date: 2022-04-29
 include_in_hugo: true
+title: "Complibot"
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-04-29/) newsletter.*

@@ -1,7 +1,7 @@
 ---
-title: Markdown
 date: 2022-05-13
 include_in_hugo: true
+title: Markdown
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-05-13/) newsletter.*

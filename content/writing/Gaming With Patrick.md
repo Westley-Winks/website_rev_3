@@ -1,7 +1,7 @@
 ---
-title: "Gaming With Patrick"
 date: 2022-05-06
 include_in_hugo: true
+title: "Gaming With Patrick"
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-05-06/) newsletter.*
