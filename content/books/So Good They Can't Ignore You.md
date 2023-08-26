@@ -52,8 +52,6 @@ I really like now having something to call the aspects of the craftsman mindset.
 
 Same thing for career capital. I like to think about skills, frameworks, and tools that I have in my brain as a toolbox that I pick and choose from as I go through life to see if one of them helps my current problem. I have never really applied the same thinking to a career until now.
 
-## Footnotes
-
 [^1]: I am currently a Peace Corps Volunteer so I was reminded of [JFK's Inaugural Address](https://www.archives.gov/milestone-documents/president-john-f-kennedys-inaugural-address) when I read this: "Ask not what your country can do for you – ask what you can do for your country."
 [^2]: Term coined by Stuart Kauffman.
 

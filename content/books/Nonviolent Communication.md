@@ -40,8 +40,6 @@ Lastly, NVC can be used to express appreciation for others. **A good expression 
 
 While I am skeptical of these big best-selling books, especially when there is some product or workshop to pay for at the end of it, there are some good tools and nuggets throughout this book. I don't foresee myself following this method to the T as I picture my shy self in one of the many example dialogues. The method emphasizes that it takes a lot of time and exploration which means extended amounts of time in awkward conversations. This would be fine for my deep relationships but for everyday interactions, I am going to cherry pick tools from the book to use.
 
-## Footnotes
-
 [^1]: I was reminded of this by Peace Corps Morocco Country Director Susan Dwyer when she drew a connection between [Charlie Brown getting a rock for Halloween]([https://www.youtube.com/watch?v=5tIhwITwhSg](https://www.youtube.com/watch?v=5tIhwITwhSg)) and the Volunteers getting their permanent sites.
 [^2]: Rosenburg actually calls it the separation of observation and *evaluation.* However, this concept is very similar to the DIVE model of cross-cultural competence that I have significant experience with. I believe we tend to *interpret* rather than properly *evaluate* so I switched it here.
 [^3]: Rosenburg offers lists of feelings to make it easier to find the language that describes your feelings. I prefer using the [Feelings Wheel.](https://feelingswheel.com/) I know it's kind of cheesy but it is an excellent tool for finding the language you need.

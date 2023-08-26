@@ -754,8 +754,6 @@ I liked the overall theme throughout of meaningful connection. Why learn a bunch
 
 It's important to remember that this is all a practice. We aren't going to know it all or have the best answers or be compassionate all the time. We have to actively choose to use and develop these skills every single day to get better with them.
 
-## Footnotes
-
 [^1]: This is a key concept in [Permission to Feel]({{< ref "Permission to Feel" >}}). Brackett emphasize throughout the book that we need accurate and specific language to be able to Label, Express, and Recognize our emotions.
 
 [^2]: This is the Understand portion of the RULER model in [Permission to Feel]({{< ref "Permission to Feel" >}}).
