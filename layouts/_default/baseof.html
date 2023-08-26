@@ -30,5 +30,24 @@
   </script>
 {{ end }}
 
+<script
+  src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+  type="application/javascript"
+></script>
+<script type="application/javascript">
+  littlefoot.littlefoot({
+    "buttonTemplate":
+    `<button
+  aria-label="Footnote <% number %>"
+  class="littlefoot__button"
+  id="<% reference %>"
+  title="See Footnote <% number %>"
+/>
+  <% number %>
+</button>`,
+    "allowDuplicates": true
+  })
+</script>
+
 </body>
 </html>

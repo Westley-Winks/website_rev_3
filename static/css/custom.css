@@ -10,3 +10,24 @@ footer * {
 a button, button, input[type=button], input[type=reset], input[type=submit] {
     white-space: normal;
 }
+
+.littlefoot {
+    --button-text-color: var(--nc-lk-1);
+    --button-active-text-color: var(--nc-lk-2);
+    --button-background-color: transparent;
+    --button-padding: 0;
+    --button-margin: 0;
+    --button-active-background-color: transparent;
+
+    --popover-background-color: var(--nc-bg-2);
+    --popover-text-color: var(--nc-tx-2);
+    --popover-width: 30em;
+    --popover-scroll-indicator-color: var(--nc-tx-2);
+
+    vertical-align: super;
+}
+
+.littlefoot button{
+    text-decoration: underline;
+    font-size: smaller;
+}
