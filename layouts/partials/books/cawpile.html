@@ -1,0 +1,12 @@
+{{ $rounded_average := div (math.Round (mul (div (math.Sum .Params.cawpile) 7) 10)) 10 }}
+
+<p>
+<strong>Overall:</strong> {{ $rounded_average }} /
+Characters: {{ index .Params.cawpile 0 }} /
+Atmosphere: {{ index .Params.cawpile 1 }} /
+Writing Style: {{ index .Params.cawpile 2 }} /
+Plot: {{ index .Params.cawpile 3 }} /
+Intrigue: {{ index .Params.cawpile 4 }} /
+Logic: {{ index .Params.cawpile 5 }} /
+Enjoyment: {{ index .Params.cawpile 6 }}
+</p>

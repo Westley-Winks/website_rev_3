@@ -8,6 +8,10 @@
 <details>
     <summary>{{ .Title }} by {{ .Params.author }}</summary>
         <p>{{ .Summary }} {{ if .Truncated }}...{{ end }}</p>
+        {{ if .Params.cawpile }}
+            {{ partial "books/cawpile.html" . }}
+        {{ end }}
+
     {{ if .RelPermalink }}
         <a href="{{ .RelPermalink }}"><button>My Notes</button></a>
     {{ end }}

@@ -1,10 +1,10 @@
 ---
 author: Blake Crouch
-cawpile: 4, 9, 8, 8, 9, 8, 10
+cawpile: [4, 9, 8, 8, 9, 8, 10]
 date: 2023-08-22
 description: Book review for Recursion by Blake Crouch
 include_in_hugo: true
-keywords: book summary, book review, book notes
+keywords: [book summary, book review, book notes]
 lastmod: 2023-08-22
 status: read
 summary: "Barry and Helena must use her powerful invention to maintain the reality of the past."
@@ -35,13 +35,13 @@ Helena knows the danger that this technology poses on the world. If memories can
 
 ---
 
-## Characters - 4
+## Characters - 4/10
 
 The characters were a bit generic and not particularly interesting. There wasn't much development and I feel like I don't really know any of the characters, like they could be replaced by anyone and I wouldn't notice. Even though Barry and Helena lived so many lives on a loop, they hardly changed as people. They are a bit more ragged and discouraged with the impending doom that comes at the end of each loop, but that's about it.
 
 The only character trait that I admired was Helena's integrity. She didn't sell out when she realized the potential use cases of her invention and recognized the danger it posed for the world. She understood the power that she held and did everything she could to destroy the knowledge of the technology that she created.
 
-## Atmosphere - 9
+## Atmosphere - 9/10
 
 The setting felt modern and familiar. Crouch uses some amazing imagery throughout to describe the scenes. I could picture all the hectic moments, the hordes of people panicking. I could hear the sounds of bodies falling from rooftops onto cars and I could feel the pain in my lungs every time someone got into the deprivation tank. I physically recoiled after Barry and Helena survive nuclear fallout and are suffering from the radiation:
 
@@ -49,7 +49,7 @@ The setting felt modern and familiar. Crouch uses some amazing imagery throughou
 
 The tense moments in the city were balanced with nice idyllic settings when Helena and Barry were living their lives in loops. In one life, they lived deep in the Sonora desert. In another, they were in a remote tundra on Antarctica watching the aurora australis. They live the last moments of the current timeline in relative peace and quiet that is a nice change from the world blowing itself up.
 
-## Writing Style - 8
+## Writing Style - 8/10
 
 Crouch has an interesting writing style that I noticed in his other book, *Dark Matter*. He sometimes writes sentences that don't use pronouns, as if to ask what *she*, *he*, and *we* really mean when timelines are getting crossed.
 
@@ -57,15 +57,15 @@ The dialogue is very natural and comfortable. Characters talk how people talk in
 
 > Barry pulls a black duffel bag out of the trunk, and Helena follows him onto the sidewalk and a little ways down to the entrance of a bar they’ve been in once before, four months from now, when they came to scope out the tunnel access to Slade’s building and discuss their plans for this exact moment.
 
-## Plot - 8
+## Plot - 8/10
 
 I liked the overall plot. It flowed nicely and didn't have too many things going on. It is a unique story and as such was not predictable at all and made it an interesting read. The book resolved nicely although I do feel sad that Helena died thinking that she failed after so many long, hard tries.
 
-## Intrigue - 9
+## Intrigue - 9/10
 
 This was a page turner for me and I blew through it in just a few days. I got sucked in and had to stop a few times to ask *what the fuck?* I was thinking about the book when I wasn't reading it and was constantly engaging with it, wondering what I would do if faced with these situations.
 
-## Logic - 8
+## Logic - 8/10
 
 As mind-boggling as this story is, everything made sense. Stories get complex as soon as you start to introduce time travel concepts and Crouch also adds on a memory component to further the complexity.
 
@@ -73,7 +73,7 @@ The logic did start to break down towards the end when Helena is looping through
 
 For someone as smart and dedicated as Helena, why would she take the unnecessary risk of being away from the chair when she knew what would happen? I understand that she wants to spend at least a few moments with Barry when he has his full memory back. But why punctuate those moments with running for your life and fear of not being able to go back?
 
-## Enjoyment - 10
+## Enjoyment - 10/10
 
 I thoroughly enjoyed this book and will be recommending it to everyone who is a fan of science fiction. It was fun to read and to think through all of possible scenarios and consequences of going back in time to a memory.
 
