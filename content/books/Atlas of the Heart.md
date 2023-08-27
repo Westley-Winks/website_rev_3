@@ -353,7 +353,7 @@ Compassion is fueled by understanding and accepting that we are all humans. We a
 
 ### Pity
 
-**"Pity involves four elements:
+**"Pity involves four elements:**
 
 1. **a belief that the suffering person is inferior;**  
 2. **a passive, self-focused reaction that does not include providing help;**  
