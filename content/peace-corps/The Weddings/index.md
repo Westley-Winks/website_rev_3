@@ -127,8 +127,6 @@ Even though I was cranky and hot at points, it’s nights like these that remind
 
 {{< youtube G-9YvJhf1Wo >}}
 
-*DISCLAIMER: The contents of this website are mine personally and do not reflect any position of the U.S. Government or the Peace Corps.*
-
 [^2]: There were two more outfit changes after dinner. (Dinner was served at 12:30am)
 
 [^3]: Party ended around 4am. I slept on the roof along with 15 other guests. We had to sleep on the roof because of the Peace Corps’ policy about traveling after dark. Khadija and her family are so kind and accommodating to me about the rules I have to follow. I am beyond grateful for her understanding.
