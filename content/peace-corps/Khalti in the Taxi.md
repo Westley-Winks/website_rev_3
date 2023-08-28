@@ -32,5 +32,3 @@ Being kind doesn't have to be some big, drawn out spectacle. Sometimes all it ta
 Hearty in my approbation and lavish in my praise,
 
 Westley Winks  
-
-*DISCLAIMER: The contents of this website are mine personally and do not reflect any position of the U.S. Government or the Peace Corps.*
