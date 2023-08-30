@@ -21,6 +21,9 @@
     </main>
     {{ end }}
 
+	<br>
+	<p>Last Modified: {{ .Lastmod.Format "2006-01-02" }}</p>
+
     {{ partial "footer.html" . }}
 
 {{ if .Page.Store.Get "hasMermaid" }}
