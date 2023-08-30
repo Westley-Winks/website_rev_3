@@ -10,6 +10,14 @@ taxonomies: []
 # permalinks:
 #   posts: /:year/:month/:title/
 
+enableGitInfo: true
+
+frontmatter:
+  lastmod:
+    - lastmod
+    - :git
+    - :default
+
 markup:
   goldmark:
     renderer:
