@@ -2,12 +2,7 @@
 
     {{ .Content }}
 
-    {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}"><button><< {{ .Title }}</button></a>
-    {{ end }}
-    {{ with .NextInSection }}
-      <a href="{{ .Permalink }}"><button>{{ .Title }} >></button></a>
-    {{ end }}
+	{{ partial "section-navs.html" . }}
 
     <hr>
 

@@ -1,16 +1,12 @@
 {{ define "header" }}
 
-	<h1>{{ .Title }} by {{ .Params.author }}</h1>
+	<h1>{{ .Title }}</h1>
 
 	{{ block "nav" . }}{{ partial "nav.html" . }}{{ end }}
 
 {{ end }}
 
 {{ define "content" }}
-
-	{{ if .Params.cawpile }}
-	  {{ partial "books/cawpile.html" . }}
-	{{ end }}
 
 	{{ .Content }}
 
