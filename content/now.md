@@ -16,19 +16,13 @@ I started up [this blog]({{< relref "peace-corps" >}}) before I left, wrote a fe
 
 This goes along with the above quest. They are fun to write but I feel quite a lot of Resistance because I want to tell these stories right and the perfectionism gets in the way.
 
-## Learning Vim
+## Learning Modal Editing
 
-I have always wanted to learn how to use this [popular text editor](https://www.vim.org/) and was inspired by Reddit to finally get after it. It is simply a tool used to write text into files on a computer. The "normal" way to do this is to use a text editor like VSCode or Sublime. These are very user friendly and you can see everything you need to and click around like normal. Vim, however, was used before there were things like mouses and GUIs.
+I have always wanted to learn how to use [vim](https://www.vim.org/) and was inspired by Reddit to finally get after it. It is simply a tool used to write text into files on a computer. The "normal" way to do this is to use a text editor like VSCode or Sublime. These are very user friendly and you can see everything you need to and click around like normal. Vim, however, was used before there were things like mouses and GUIs.
 
 With Vim, you can translate what you want to do in your head to the computer much faster. You can tell it to, for example, "change the text inside the next pair of parentheses" by typing `cin(`. This deletes what is inside the parentheses and sets your cursor there to type in the substitution. Another is "delete the next 3 lines" done by typing `3dd`. One of personal favorites so far (using the surround plugin) is `ysiw]` to wrap the current word in square brackets. Think about how many key presses or mouse movements these examples would take and you can start to see how much easier it is to get your thoughts from your brain and into the computer.
 
-## Learning bookkeeping (using Beancount)
-
-Also from Derek Sivers, I heard about a program called Beancount which led me down a rabbit hole of [plain text accounting](https://plaintextaccounting.org/). The whole idea is to have your entire ledger (i.e. all of your transactions involving commodities) in a format that is plain text. There are many benefits to doing it this way. First, **plain text is eternal**. Your accounting isn't locked up at the mercy of some company like Quicken or YNAB. If those softwares go down, so do all the data they contain. If all of your transactions are in plain text, you can see all of those transactions on any computer. Second, it makes it scriptable. You can write code to do any kind of reporting or budgeting you'd like.
-
-My tool of choice was [Beancount](https://beancount.github.io/). It is open source and has fantastic documentation that doesn't only cover how to use the tool but also examples and the theory behind the method. I have one big file called `main.beancount` that contains all of my money transactions that I add to every time I buy something. Whenever I'd like, I can generate balance sheets and income statements for any given time period with just a few commands (e.g. `bean-report main.beancount balances`). 
-
-The underlying principle behind the accounting is called the [double-entry counting method](https://beancount.github.io/docs/the_double_entry_counting_method.html). It is a way of counting that ensures that each transaction balances out to zero. In other words, money that comes in or goes out of an account must come from or go to another account.
+The rabbit hole led me to [Helix](https://helix-editor.com/) that I am currently trying after messing around with vim. It is snappier and I am already liking it a lot more than vim. It just works right out of the box and I didn't need to spend hours trying to understand configuration like I did with vim.
 
 ## Writing the Weekly PCV Weather Report
 
