@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /assembly-ai/
+Allow: /
+
+Sitemap: https://westleywinks.com/robots.txt
