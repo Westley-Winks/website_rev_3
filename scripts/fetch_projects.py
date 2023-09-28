@@ -10,7 +10,7 @@ try:
 except:
     pass
 
-PATH_TO_DATA = "../data"
+PATH_TO_DATA = "data"
 GITHUB_USERNAME = os.environ["GH_USERNAME"]
 GITHUB_OAUTH_TOKEN = os.environ["OAUTH_TOKEN"]
 GITHUB_API_ENDPOINT = "https://api.github.com/graphql"
@@ -39,7 +39,7 @@ all_org_edges = []  # All the repos in the org with their stats
 all_orgs = []  # Track orgs and all its repos e.g. twitter, twitter
 all_repos = []  # Track specific repositories e.g. ('pantsbuild', 'pants')
 
-with open("repos-to-include.txt", "r") as f:
+with open("scripts/repos-to-include.txt", "r") as f:
     for line in f:
         owner, repo = line.split("/")
         repo = repo.rstrip("\n")
@@ -97,7 +97,7 @@ print("LOG: Fetched all the individual repos as well. Count:", len(all_repo_edge
 
 # Repos to exclude
 repos_to_exclude = set()
-with open("repos-to-exclude.txt", "r") as f:
+with open("scripts/repos-to-exclude.txt", "r") as f:
     for line in f:
         repo = line.rstrip("\n")
         repos_to_exclude.add(repo)
