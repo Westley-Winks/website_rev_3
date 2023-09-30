@@ -10,7 +10,7 @@ taxonomies: []
 # permalinks:
 #   posts: /:year/:month/:title/
 
-enableGitInfo: true
+enableGitInfo: false
 
 frontmatter:
   lastmod:
