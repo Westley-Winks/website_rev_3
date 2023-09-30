@@ -1,6 +1,6 @@
 ---
 date: 2022-05-13
-include_in_hugo: true
+hugo: writing/Markdown.md
 title: Markdown
 ---
 

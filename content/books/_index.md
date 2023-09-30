@@ -1,6 +1,6 @@
 ---
 description: Book notes and book reviews of books that I have read.
-include_in_hugo: true
+hugo: books/_index.md
 keywords: book reviews, book notes, book summaries
 layout: books
 menu: main

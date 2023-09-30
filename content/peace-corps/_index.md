@@ -1,6 +1,6 @@
 ---
 description: Personal blog writing about Moroccan culture as a volunteer in Peace Corps Morocco.
-include_in_hugo: true
+hugo: peace-corps/_index.md
 keywords: peace corps morocco blog, peace corps morocco blogs, peace corps blog
 menu: main
 title: Peace Corps

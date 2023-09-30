@@ -2,7 +2,7 @@
 author: Brené Brown
 date: 2023-08-16
 description: Book notes for Atlas of the Heart by Brené Brown.
-include_in_hugo: true
+hugo: books/Atlas of the Heart.md
 keywords: book notes, book summary
 lastmod: 2023-08-16
 status: read
@@ -754,13 +754,13 @@ I liked the overall theme throughout of meaningful connection. Why learn a bunch
 
 It's important to remember that this is all a practice. We aren't going to know it all or have the best answers or be compassionate all the time. We have to actively choose to use and develop these skills every single day to get better with them.
 
-[^1]: This is a key concept in [Permission to Feel]({{< ref "Permission to Feel" >}}). Brackett emphasize throughout the book that we need accurate and specific language to be able to Label, Express, and Recognize our emotions.
+[^1]: This is a key concept in [Permission to Feel]({{< ref "books/Permission to Feel.md" >}}). Brackett emphasize throughout the book that we need accurate and specific language to be able to Label, Express, and Recognize our emotions.
 
-[^2]: This is the Understand portion of the RULER model in [Permission to Feel]({{< ref "Permission to Feel" >}}).
+[^2]: This is the Understand portion of the RULER model in [Permission to Feel]({{< ref "books/Permission to Feel.md" >}}).
 
 [^3]: Brown uses the BLM movement as an example of narrative takeover that was really enlightening. Instead of listening and believing the stories of racism and injustice, people started crying "all lives matter" or "blue lives matter" when there was no narrative of white lives or police lives not mattering. They hijacked the story and made themselves the center.
 
-[^4]: This goes along with developing a craftsman mindset from [So Good They Can't Ignore You]({{< ref "So Good They Can't Ignore You" >}}). Becoming a master at something involves deliberate practice. Deliberate practice means trying, failing, learning, and repeating so if you are afraid of failure, deliberate practice will be extra painful and keep you from reaching mastery.
+[^4]: This goes along with developing a craftsman mindset from [So Good They Can't Ignore You]({{< ref "books/So Good They Can't Ignore You.md" >}}). Becoming a master at something involves deliberate practice. Deliberate practice means trying, failing, learning, and repeating so if you are afraid of failure, deliberate practice will be extra painful and keep you from reaching mastery.
 
 [^5]: Maybe it is cheesy or a lofty goal but I think this is why Peace Corps is so important. Volunteers are on the ground actively trying to increase understanding between two very large groups all in an effort to reduce hate.
 

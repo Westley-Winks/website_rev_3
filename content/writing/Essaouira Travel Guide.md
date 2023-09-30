@@ -1,7 +1,7 @@
 ---
 date: 2023-09-29
 description: A working list of places to go to when you are in Essaouira, Morocco.
-include_in_hugo: true
+hugo: writing/Essaouira Travel Guide.md
 lastmod: 2023-09-29
 title: Essaouira Travel Guide
 ---

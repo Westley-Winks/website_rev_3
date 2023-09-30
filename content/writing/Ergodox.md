@@ -1,6 +1,6 @@
 ---
 date: 2022-04-11T16:09:32-07:00
-include_in_hugo: true
+hugo: writing/Ergodox.md
 title: Ergodox
 ---
 

@@ -1,11 +1,11 @@
 ---
 date: 2022-06-10T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/APIs.md
 title: APIs
 ---
 
 *This piece first appeared on the [Until It’s Not Fun](https://untilitsnotfun.com/posts/2022-06-10/) newsletter.*
- [Last week]({{< ref "What Is The Internet" >}}), I talked about how the internet works. Clients make requests to servers and servers respond to those requests. Today, let's go deeper into how programs and computers can talk to each other: APIs.
+ [Last week]({{< ref "writing/What Is The Internet.md" >}}), I talked about how the internet works. Clients make requests to servers and servers respond to those requests. Today, let's go deeper into how programs and computers can talk to each other: APIs.
 
 Back when computers were just starting out, the companies producing them built everything for that computer (the hardware, the chips, the software) and that one company put all of these together to make it work. Since computers became ultra popular, it opened up the market such that entire companies could be formed around building each of these components: Intel makes chips, Apple provides low-level software and hardware, and there are thousands of companies that build applications (Facebook, Chrome, Discord, etc.). We now have so many different applications and they all need to connect so that they can be useful to us.
 

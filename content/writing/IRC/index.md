@@ -1,6 +1,6 @@
 ---
 date: 2022-04-15
-include_in_hugo: true
+hugo: writing/IRC/
 title: IRC
 ---
 

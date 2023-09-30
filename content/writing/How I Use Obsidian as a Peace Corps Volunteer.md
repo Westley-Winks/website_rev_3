@@ -1,7 +1,7 @@
 ---
 date: 2023-07-06
 description: A simple guide for how I use the note-taking tool Obsidian in my daily life and work as a Peace Corps Volunteer
-include_in_hugo: true
+hugo: writing/How I Use Obsidian as a Peace Corps Volunteer.md
 lastmod: 2023-07-06
 title: How I Use Obsidian as a Peace Corps Volunteer
 toc: true
@@ -21,7 +21,7 @@ Every note that you write in Obsidian gets typed in and formatted according to a
 
 For example, to make a big heading add an octothorpe/hashtag (#) before the heading words. If you want a smaller header, use two. To **bold words**, wrap them in two asterisks (\*) on either side. For *italicizing words*, wrap them in one asterisk. Lists are made with either dashes for bullet lists or numbers for ordered lists.
 
-Those are the basics to get started but I wrote a [longer piece]({{< ref "Markdown" >}}) on this a while ago if you are interested and there is a good [cheat sheet](https://www.markdownguide.org/basic-syntax/) available.
+Those are the basics to get started but I wrote a [longer piece]({{< ref "writing/Markdown.md" >}}) on this a while ago if you are interested and there is a good [cheat sheet](https://www.markdownguide.org/basic-syntax/) available.
 
 ## Basic Functions
 

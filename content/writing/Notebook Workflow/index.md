@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-include_in_hugo: true
+hugo: writing/Notebook Workflow/
 slug: notebook-workflow
 title: Task Management and Notebook Workflow
 toc: true
@@ -131,7 +131,7 @@ Each page (future, monthly, or weekly) has a vertical line running down the enti
 For demonstration, privacy, and simplicity reasons, I made a toned down version in a normal old notebook.
 
 **Future**  
-![](future.webp)
+![future.webp](future.webp)
 
 My future spreads usually contain birthdays and holidays because I don't plan actual tasks that far out. In this spread, you can see that I have migrated tasks from March and April to monthly spreads. I can now forget that they exist in my future spread.
 
@@ -140,14 +140,14 @@ I can get a quick glance of what is coming up in future months by looking for do
 You can also see that it is easy to add recurring tasks, like paying rent on the 4th every month by just adding dots in each context category.
 
 **Monthly**  
-![](monthly.webp)
+![monthly.webp](monthly.webp)
 
 In this monthly spread, you can see the tasks that were in the future spread like $\pi$ day and paying rent.
 
 You can also see the key for converting from a calendar date to its corresponding week number. Week 9 contains March 1st through March 5th, week 10 contains March 6th through March 12th, etc. This way, I don't have to look at a calendar when someone tells me that Easter is on April 9th. I look at the key, see that the 9th falls into week 14 and I add it accordingly.
 
 **Weekly**  
-![](weekly.webp)
+![weekly.webp](weekly.webp)
 
 Like I said, this is where the magic happens. You'll notice tasks from the monthly and future spreads alongside new tasks. If a task comes into my periphery and it can be done in the current week, I add it directly to the weekly spread (see the above flowchart).
 

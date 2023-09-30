@@ -1,7 +1,7 @@
 ---
 date: 2023-09-27
 description: An overview of how I use plain text accounting and beancount to manage my finances
-include_in_hugo: false
+hugo: writing/Finances and Bookkeeping.md
 keywords: ['beancount', 'plain text accounting', 'double entry']
 title: Finances and Bookkeeping
 toc: false
@@ -178,4 +178,3 @@ To pay my friend back, I give them cash when I get back to my wallet.
 - Excellent write-up of [double entry counting method](https://beancount.github.io/docs/the_double_entry_counting_method.html), as part of the beancount documentation.
 - A [set of scenarios](https://github.com/plaintextaccounting/plaintextaccounting/wiki/Splitting-the-bill) for splitting a bill. The transactions look different depending on who pays and how it is split.
 - A collection of [resources, examples, tools, and everything else](https://plaintextaccounting.org/) by plaintextaccounting.org.
-

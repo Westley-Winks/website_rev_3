@@ -1,7 +1,7 @@
 ---
 author: Cal Newport
 date: 2023-06-04
-include_in_hugo: true
+hugo: books/So Good They Can't Ignore You.md
 lastmod: 2023-06-04
 status: read
 summary: "A nice short roadmap to finding a truly meaningful career. Ignore what you heard about trying to match your job to your passion. Instead,  gain rare and valuable skills that you can trade in later for desirable career traits such as control and a mission."

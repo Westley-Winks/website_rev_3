@@ -1,6 +1,6 @@
 ---
 date: 2022-04-29
-include_in_hugo: true
+hugo: writing/Complibot.md
 title: "Complibot"
 ---
 

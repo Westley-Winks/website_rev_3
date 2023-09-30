@@ -1,6 +1,6 @@
 ---
 date: 2022-06-03T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/What Is The Internet.md
 title: What Is The Internet
 ---
 
@@ -39,7 +39,7 @@ Now to sum this up so you can explain it at your next dinner party. The internet
 
 Keep in mind, this is a heavily simplified model of the internet so that I can understand it and put it into plain English for you to have a high level understanding of what goes on behind the scenes when you use your devices.
 
-Come back next week for part two where we dive into a huge building block of the internet: [APIs]({{< ref "APIs" >}}).  
+Come back next week for part two where we dive into a huge building block of the internet: [APIs]({{< ref "writing/APIs.md" >}}).  
 
 I have the honor to be Your Obedient Servant,
 

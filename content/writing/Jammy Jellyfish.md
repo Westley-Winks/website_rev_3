@@ -1,6 +1,6 @@
 ---
 date: 2022-04-22
-include_in_hugo: true
+hugo: writing/Jammy Jellyfish.md
 title: "Jammy Jellyfish"
 ---
 

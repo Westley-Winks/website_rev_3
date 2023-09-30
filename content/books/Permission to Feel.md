@@ -1,7 +1,7 @@
 ---
 author: Marc Brackett
 date: 2023-06-27
-include_in_hugo: true
+hugo: books/Permission to Feel.md
 lastmod: 2023-06-29
 status: read
 summary: Brackett provides five key emotion skills that are the basis of the book and a framework for becoming more emotionally intelligent and empathetic.
@@ -77,11 +77,11 @@ Still, I have been using this model in my life and feel like I unlocked somethin
 
 One way I have been building this skill is with an app called [How We Feel](https://howwefeel.org/) developed with Brackett using the same RULER principles. It provides a way to track your emotions using the Mood Meter. You get periodic notifications throughout the day to Recognize, Understand, and Label how you are feeling. Those few reminders help me to stop and honestly think about my feelings using the RULER model as a lens.
 
-There are similar ideas between this book and [Nonviolent Communication]({{< ref "Nonviolent Communication" >}}). The four components of NVC are observations, feelings, needs, and requests. That sounds a lot like Recognizing, Labeling, Understanding, and Expressing. NVC focuses more on empathy and communication between people while RULER has a bit more general emotional intelligence skills.
+There are similar ideas between this book and [Nonviolent Communication]({{< ref "books/Nonviolent Communication.md" >}}). The four components of NVC are observations, feelings, needs, and requests. That sounds a lot like Recognizing, Labeling, Understanding, and Expressing. NVC focuses more on empathy and communication between people while RULER has a bit more general emotional intelligence skills.
 
 [^1]: Me included until a few months ago. Peace Corps really encourages you to think about and talk about your feelings and this is something I had never really done before becoming a volunteer. I thought our resiliency training and reflection times were going to be sitting in a *kumbaya* circle that I dreaded. It turns out that talking about your feelings in a safe environment feels great and that's why I have been studying emotional intelligence since.
 [^2]: I still struggle reading how Moroccans express their emotions. I've had times where people have seemed, from my American perspective, absolutely livid but then shake hands and have a standard goodbye and all is perfectly fine.
-[^3]: It already came up in the footnotes of my summary of [Nonviolent Communication]({{< ref "Nonviolent Communication" >}}) but this reminds me of a John Green quote: "Don't just do something, stand there."
+[^3]: It already came up in the footnotes of my summary of [Nonviolent Communication]({{< ref "books/Nonviolent Communication.md" >}}) but this reminds me of a John Green quote: "Don't just do something, stand there."
 [^4]: This reminded me of the maturity continuum model from [The 7 Habits of Highly Effective People.](https://www.franklincovey.com/the-7-habits/) Throughout our lives, me tend to move from being Dependent as children, move to being Independent, and ultimately become Interdependent with those around us.
 [^5]: Brackett actually calls this the Meta-Moment but that seemed a little cheesy for me so I am going with a more on-the-nose name.
 

@@ -1,6 +1,6 @@
 ---
 date: 2022-05-06
-include_in_hugo: true
+hugo: writing/Gaming With Patrick.md
 title: "Gaming With Patrick"
 ---
 

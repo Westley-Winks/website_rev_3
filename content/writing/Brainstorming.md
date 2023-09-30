@@ -1,6 +1,6 @@
 ---
 date: 2022-07-29T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/Brainstorming.md
 title: Brainstorming
 ---
 

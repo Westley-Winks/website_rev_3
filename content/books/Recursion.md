@@ -3,7 +3,7 @@ author: Blake Crouch
 cawpile: [4, 9, 8, 8, 9, 8, 10]
 date: 2023-08-22
 description: Book review for Recursion by Blake Crouch
-include_in_hugo: true
+hugo: books/Recursion.md
 keywords: [book summary, book review, book notes]
 lastmod: 2023-08-22
 status: read

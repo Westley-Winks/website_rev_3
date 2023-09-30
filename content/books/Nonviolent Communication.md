@@ -1,7 +1,7 @@
 ---
 author: Marshall B. Rosenburg
 date: 2023-05-20
-include_in_hugo: true
+hugo: books/Nonviolent Communication.md
 lastmod: 2023-05-20
 summary: Rosenburg provides a communication method that puts compassion and empathy first. He provides the steps to communicating more effectively with a mix of concrete tools and abstract ideas.
 status: read

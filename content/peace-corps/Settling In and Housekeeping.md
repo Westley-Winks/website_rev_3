@@ -1,7 +1,7 @@
 ---
 date: 2023-01-19
 description: "After the crucible that was training, I am finally ready to start up the blog. In this post, I write a brief summary of my journey thus far and the purpose of this blog."
-include_in_hugo: true
+hugo: peace-corps/Settling In and Housekeeping.md
 title: Settling In and Housekeeping
 ---
 

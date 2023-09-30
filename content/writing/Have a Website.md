@@ -1,6 +1,6 @@
 ---
 date: 2022-07-08T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/Have a Website.md
 title: Have a Website
 ---
 

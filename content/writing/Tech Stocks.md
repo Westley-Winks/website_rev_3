@@ -1,6 +1,6 @@
 ---
 date: 2022-06-17T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/Tech Stocks.md
 title: Tech Stocks
 ---
 

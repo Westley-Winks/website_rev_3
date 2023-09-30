@@ -1,6 +1,6 @@
 ---
 date: 2022-06-24T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/Sorting Algorithms.md
 title: Sorting Algorithms
 ---
 

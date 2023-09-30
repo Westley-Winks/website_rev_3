@@ -1,7 +1,7 @@
 ---
 date: 2023-08-27
 description: Blog post documenting my time at the moussem and tbourida, a traditional Moroccan cultural event.
-include_in_hugo: true
+hugo: peace-corps/The Moussem/
 keywords: tbourida, moussem, peace corps morocco blog
 lastmod: 2023-08-27
 title: The Moussem
@@ -11,7 +11,7 @@ Last week, there was a *moussem* (موسم) in my town. This is the Arabic word 
 
 I heard there was going to be one from one of the kids who works at a food place I frequent. He told me when the *moussem* was and roughly what to expect, most notably that it was going to be packed with people. Then one afternoon, sellers started to pour in, filling up over a half mile long stretch of road, from the outskirts to the center of town. Each one set up a makeshift sun cover out of sticks, rope, and whatever opaque material they could find. They set out all of their stuff for sale on tables and rugs on the ground; jewelry, trinkets, home products, dishes, food, etc.
 
-![](for_sale.webp)
+![for_sale.webp](for_sale.webp)
 
 It was right down the street from my house and I could hear one of the seller's megaphones going all day, belting out prices for dates, nuts, and other foodstuffs. At night when people came out, it was a cacophony of people spitting out numbers, naming their prices with the Moroccan women challenging them in negotiation. The sellers clearly had done this before as they were perfectly comfortable dealing with four or five buyers at a time while also making change and answering questions from others.
 
@@ -23,11 +23,11 @@ Troupes of men on horses come in groups of anywhere from 15 to 25 members. Them 
 
 There is a big open area right in front of the youth center that I work at and the day before the *tbourida* started, there were water trucks going up and down the area, giving the dry, packed dirt some much needed hydration. Other trucks were bringing in hundreds of barriers to form the outer edge of the arena and yet another group was setting up tents so people could watch without sweltering in the heat of the sun.
 
-![](empty.webp)
+![empty.webp](empty.webp)
 
 I went to the first day of the event because I knew there were going to be less people and I could get a good view. From my window, I could hear the *clip-clop* of horse hooves on pavement and I followed the convoy to the arena. Both the riders and their horses were dressed in their best traditional garb, far different than the equestrian gear I have interacted with in my rural Central Oregonian hometown.[^2] As the horses walked, I could hear the light tinging from the little bells that were hanging from their breast collars. The saddle pads were thick, constructed from a stack of squares of some kind of salvaged cushy material. Instead of a simple loop for stirrups, these looked like hollowed-out square lanterns with a big area for the booted feet of the riders to rest on. Where I would normally see a horn to dally off of after roping a steer, there was just a big hump for riders to maintain their balance with. The bridles were much more extravagant than the simple leather bands that I am accustomed to. They featured tassels and blinders to keep the horse's focus attuned to the one direction they needed to go—forward.
 
-![](convoy.webp)
+![convoy.webp](convoy.webp)
 
 There were now hordes of people sitting in plastic chairs with even more standing behind them under the tents that were empty just a day before. I found a decent enough spot to stand in the tent that faced the arena such that the troupes would be running right at us. The men in the tent seemed content sitting in claustrophobic positions in the center. Behind me and the rest of the men standing was a sizable gap that let people pass through. Also taking this route were people selling refreshments like coffee, tea, and bars of peanuts and almonds. As they passed through, they would yell out whatever they were offering like someone selling hot dogs at a baseball game.
 

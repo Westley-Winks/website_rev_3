@@ -2,7 +2,7 @@
 author: Khaled Hosseini
 date: 2023-07-19
 description: Book review for A Thousand Splendid Suns by Khaled Hosseini
-include_in_hugo: true
+hugo: books/A Thousand Splendid Suns.md
 keywords: book review, book notes, book summary
 lastmod: 2023-07-20
 status: read

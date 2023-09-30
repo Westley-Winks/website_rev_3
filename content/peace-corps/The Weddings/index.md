@@ -1,7 +1,7 @@
 ---
 date: 2023-08-09
 description: Two PCVs share their unique experiences with recent weddings.
-include_in_hugo: true
+hugo: peace-corps/The Weddings/
 keywords: moroccan wedding, peace corps morocco blog
 lastmod: 2023-08-09
 title: The Weddings
@@ -17,7 +17,7 @@ Also of note, Moroccan weddings aren't just one evening like American ones. They
 
 The first function I was invited to was lunch the day before the wedding proper. I put on my red and gold *fuqaya*[^1] and went to my host family's home. As I turned the corner, there were about twenty cars parked all over and a giant tent (*khozana*) put up smack dab in the middle of the street.
 
-![](khozana.webp)
+![khozana.webp](khozana.webp)
 
 My host sisters and some of their friends were doing [henna](https://en.wikipedia.org/wiki/Henna#Traditions_of_henna_as_body_art) on their hands and feet. My host dad, Shafei, had me follow him to the tent where lunch was going to be served. At the entrance was a jovial man on either side, prompting me to wash my hands. They poured water from a kettle and a perforated container underneath caught the water as it ran down my hands. The lunch was men only and every table in the tent was full. We squeezed in with some friends of Shafei's.
 
@@ -29,7 +29,7 @@ After the recitation and appetizer, the hosts passed out sheets of plastic to pr
 
 The hosts started coming in and out with the first course. They plopped a plate of three roasted chickens, olives, and preserved lemons down in the middle of the table. Everyone dug in, first pulling off a small piece of bread then a small piece of chicken and soaking up some of the sauce that collected on the plate.
 
-![](chicken.webp)
+![chicken.webp](chicken.webp)
 
 As much as I wanted to, I didn't fill up my stomach completely. At big Moroccan gatherings, there are usually two or three dishes brought out and if you fill up on the first, you can't enjoy the others. This time, the hosts swept away the plate with nothing but bones left on it. In its place, they put down a plate of roasted lamb and plums. This is one of my favorite Moroccan dishes. The lamb and sauce is so rich and fatty while the plums are sweet and sticky.
 
@@ -49,7 +49,7 @@ The singer belted into the microphone some lyrics that I didn't understand and t
 
 During some of these pauses, a man would come to the front and start stomping his feet and jumping up and down enthusiastically. Next to him, another member would watch intently and hit his drum at the same time that the first man's feet would make contact with the ground.
 
-![](jumping_man_square.webp)
+![jumping_man_square.webp](jumping_man_square.webp)
 
 There was also a big green cylinder like a short and wide oil drum flipped over so that someone could stand on top of it. The same jumping man wore special shoes with a harder bottom on them got on top of the make-shift drum and stomped his feet making a deep sound I could feel in my chest. At one point, an audience member got on the foot drum and did the same foot stomping while also twisting his body and raising his arms, making a show of it. Everyone cheered him on and he had a big smile on his face going back to his chair.
 
@@ -65,7 +65,7 @@ Soon after I got to the wedding tent, people started filing out into the street 
 
 Everyone crowded around and sang with the drummers doing their thing. People took turns getting on one of the trailers to dance, elevated in the middle of the crowd.
 
-![](dancing_woman.webp)
+![dancing_woman.webp](dancing_woman.webp)
 
 Eventually, the crowds dispersed and Hajar told me to follow them into the tent. Like the previous day when the tent was full of men, this time it was all women. Besides the men handing out dates and water, there were exactly two other men in there; me and the DJ, Hakim. They got me a chair and I nestled in behind his booth, barely out of his way.
 

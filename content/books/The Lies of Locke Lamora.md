@@ -2,7 +2,7 @@
 author: Scott Lynch
 date: 2023-08-21
 description: Book review for The Lies of Locke Lamora by Scott Lynch
-include_in_hugo: true
+hugo: books/The Lies of Locke Lamora.md
 keywords: book summary, book review, book notes
 lastmod: 2023-08-21
 status: read

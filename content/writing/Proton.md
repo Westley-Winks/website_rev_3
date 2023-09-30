@@ -1,6 +1,6 @@
 ---
 date: 2022-05-27T19:00:00-07:00
-include_in_hugo: true
+hugo: writing/Proton.md
 title: Proton
 ---
 
