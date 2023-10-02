@@ -5,11 +5,7 @@
 {{ range .Pages.ByLastmod.Reverse }}
 <details>
   <summary>{{ .Title }}</summary>
-  {{ with .Description }}
-    <p>{{ . }}</p>
-  {{ else }}
     <p>{{ .Summary }} {{ if .Truncated }}...{{ end }}</p>
-  {{ end }}
   <a href="{{ .RelPermalink }}"><button>Continue Reading</button></a>
 </details>
 {{ end }}
