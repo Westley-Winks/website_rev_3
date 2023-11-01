@@ -1,6 +1,7 @@
 ---
 description: "My now page inspired by Derek Sivers. It lists what I am currently focused on."
 hugo: now.md
+lastmod: 2023-11-01
 menu: main
 title: Now
 weight: 1

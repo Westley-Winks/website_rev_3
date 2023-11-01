@@ -1,4 +1,5 @@
 ---
+description: "Public coding projects that are pulled from GitHub"
 hugo: projects.md
 layout: projects
 menu: main
