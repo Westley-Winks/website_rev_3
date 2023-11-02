@@ -2,15 +2,17 @@
 date: 2023-09-29
 description: A working list of places to go to when you are in Essaouira, Morocco.
 hugo: writing/Essaouira Travel Guide.md
-lastmod: 2023-09-29
+lastmod: 2023-11-02
 title: Essaouira Travel Guide
 ---
 
-One of my favorite places, among many others, is Essaouira. It is a coastal town in the south of Morocco, a few hours west of Marrakech. It once functioned as a major trading port to connect Morocco with Europe. I have had a significant number of volunteers and someone from home ask me about what to do in Essaouira. I keep a list on my computer and just copy and paste it to whoever wants it. Then I thought, "What if I could just send them a link instead?"
+One of my favorite places in Morocco, among many others, is Essaouira. It is a coastal town in the south of Morocco, a few hours west of Marrakech. It once functioned as a major trading port to connect Morocco with Europe. I have had a significant number of volunteers and someone from home ask me about what to do in Essaouira. I keep a list on my computer and just copy and paste it to whoever wants it. Then I thought, "What if I could just send them a link instead?"
 
 ## Getting There
 
 There are taxis pretty much all day that go straight from Marrakech to Essaouira. A seat in the taxi will cost you about 80 dirhams. There is also a CTM bus that leaves Marrakech every day at 08:30 for 90 dirhams.
+
+If you are coming from Agadir to the south, you can take either a taxi or the CTM. The road is beautiful as it goes along the ocean but it has a lot of turns and the road sucks. The taxi is faster but if you are prone to motion sickness, go for the CTM. There are three a day and each take about three and a half hours and will cost 95 dirhams.
 
 ## Lodging
 
