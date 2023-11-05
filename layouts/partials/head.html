@@ -12,6 +12,10 @@
 
     {{ template "_internal/opengraph.html" . }}
 
+        {{ with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+    {{ end }}
+
     <title>{{ .Title }}{{ if not .IsHome }} | {{ site.Title }}{{ end }}</title>
 
     <link rel="shortcut icon" type="image/png" href="{{ "assets/favicon.png" | relURL }}"/>

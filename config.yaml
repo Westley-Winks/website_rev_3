@@ -46,7 +46,21 @@ menu:
     weight: 40
 
 params:
+  author:
+    email: westleywinks@protonmail.com
+    name: Westley Winks
   mainSections:
     - peace-corps
     - writing
     - books
+
+outputs:
+  home:
+    - html
+  section:
+    - html
+    - rss
+  taxonomy:
+  term:
+  page:
+    - html
