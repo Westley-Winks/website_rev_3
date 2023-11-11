@@ -7,4 +7,4 @@ I am using [new.css](https://newcss.net/) as a classless CSS framework and [Hugo
 
 ## License
 
-This content by Westley Winks is licensed under Attribution 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+The content of this project itself is licensed under [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the MIT license.
