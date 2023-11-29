@@ -3,6 +3,7 @@ date: 2023-09-27
 description: An overview of how I use plain text accounting and beancount to manage my finances
 hugo: writing/Finances and Bookkeeping.md
 keywords: ['beancount', 'plain text accounting', 'double entry']
+lastmod: 2023-11-29
 title: Finances and Bookkeeping
 toc: false
 ---
@@ -39,6 +40,11 @@ Now that we have the accounting theory behind the system, how do I actually impl
 There are [many apps](https://www.investopedia.com/best-budgeting-apps-5085405) out there these days that allow you to keep track of all of your transactions. These are fine and many of them come with cool features like allowing you to import transactions from other places like bank accounts. I don't like them.
 
 Let's say you put your entire financial life on Quicken. All your investments, expenses, and income for years. Then one day, Quicken says that if you want to keep using their service, you have to give them $100 each month. Your data is locked up in one proprietary service and it is difficult, if not impossible, to get it out and into another system. Even worse, what if the business that runs your app is no longer a business? There goes all of that data and you have to start from scratch.
+
+Funnily enough, a few weeks after I initially posted this, this exact thing happened. Mint, a popular bookkeeping and budgeting app by Intuit, announced that it will be shutting down at the turn of the year. Intuit decided that Mint wasn't worth it to keep it running so users have no choice but to move to another tool. They, of course, pushed users to move to their other tool in Credit Karma but this new one doesn't have the same budgeting tools that Mint did. You as a user get no say in this and are under a time limit before the service is inaccessible.
+
+> I am so legitimately upset about this. 12+ years of my financial history is about to be gone. My entire adult life.
+> - u/NotEmmaStone
 
 A different (and, for me, preferable) approach is to maintain it all in **plain text**. This is text that you can open on any computer and you can read. It is letters and numbers put together in a cohesive order that you can understand rather than ones and zeros that only a computer can understand. Plain text will never change its pricing structure and it will never go out of business. Even if all computers disappeared off the face of the Earth, I could still print out my ledger onto physical paper and still be able to see and understand all of my financial data.
 
