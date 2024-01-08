@@ -2,7 +2,7 @@
 date: 2023-09-29
 description: A working list of places to go to when you are in Essaouira, Morocco.
 hugo: writing/Essaouira Travel Guide.md
-lastmod: 2023-09-29
+lastmod: 2024-01-08
 title: Essaouira Travel Guide
 ---
 
@@ -27,6 +27,7 @@ There are lots of options here but I've only personally used a few of them.
 - **Asian Red Food.** Thai food that is pretty cheap, only slightly more expensive than the taco places around town. It is in a small and quaint alcove in the middle of the medina. The people are super kind, the food is wonderful, and it's a nice little relief from the busy streets. This is my go-to for a quick lunch if I don't want to have a proper meal at Ocean Vagabond. Get the fried noodles.
 - **Gelato in the medina.** Right next to Asian Red Food, this place causes lots of street congestion at night because everyone wants gelato. They've got all kinds of flavors but it is kind of expensive for what it is. Nonetheless, it is fantastic.
 - **Caffetteria Dolcefreddo.** If you want some *good* gelato, leave the medina and head southeast, right next to the CTM station. There are lots of little restaurants and cafes here but I've never tried them.
+- **Munchies.** American food place down an alleyway away from the medina. One of the better burgers I've had in Morocco (mostly because of the basil mayo they use). They've also got wings and shakes and such.
 - **Taverna Bolognese.** Nice little Italian place tucked into an alley in the medina. Good cocktails and wine.
 - **Taros.** Cool little rooftop bar with a central place for live music. There was a lot of gnawa music when I was there.
 - **Megaloft.** Another rooftop, the tallest one in town. At the very top there are rugs and pillows instead of proper tables. You can see basically all of Essaouira. Kind of expensive.
