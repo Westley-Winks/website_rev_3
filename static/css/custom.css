@@ -31,3 +31,7 @@ a button, button, input[type=button], input[type=reset], input[type=submit] {
     text-decoration: underline;
     font-size: smaller;
 }
+
+main ul:has(input[type=checkbox]) {
+  list-style: none;
+}
