@@ -15,7 +15,7 @@
 {{ define "footer" }}
 
   <section>
-    <p><a href="mailto:westleywinks@protonmail.com?subject={{ .Title }}">Reply to this post via email.</a></p>
+    <p><a href="mailto:westleywinks@protonmail.com?subject={{ replace .Title " " "%20" }}">Reply to this post via email.</a></p>
 		<p>Last Modified: {{ .Lastmod.Format "2006-01-02" }}</p>
     <hr>
   	{{ partial "section-navs.html" . }}
