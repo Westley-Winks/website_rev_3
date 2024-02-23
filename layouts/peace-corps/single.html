@@ -2,14 +2,19 @@
 
     {{ .Content }}
 
-	{{ partial "section-navs.html" . }}
+{{ end }}
+
+{{ define "footer" }}
+
+  <section>
+
+    <a href="mailto:westleywinks@protonmail.com?subject={{ .Title }}">Reply to this post via email.</a>
 
     <hr>
 
-    <em>DISCLAIMER: The contents of this website are mine personally and do not reflect any position of the U.S. Government or the Peace Corps.</em>
+  	{{ partial "section-navs.html" . }}
 
-    <br>
-    <br>
+    <p><em>DISCLAIMER: The contents of this website are mine personally and do not reflect any position of the U.S. Government or the Peace Corps.</em></p>
 
     <form
       action="https://buttondown.email/api/emails/embed-subscribe/Westley_Winks"
@@ -23,5 +28,10 @@
         <a href="https://buttondown.email" target="_blank" rel="noopener">Powered by Buttondown.</a>
       </p>
     </form>
+  </section>
+
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
 
 {{ end }}
