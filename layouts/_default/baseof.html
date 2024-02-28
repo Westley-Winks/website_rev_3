@@ -27,6 +27,8 @@
     </footer>
   {{ end }}
 
+{{ if hugo.IsProduction }} <script src="https://tinylytics.app/embed/nNGrp3RukEhAjfzCzZhL.js" defer></script> {{ end }}
+
 {{ if .Page.Store.Get "hasMermaid" }}
   <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
