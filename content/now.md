@@ -1,13 +1,13 @@
 ---
 description: "My now page inspired by Derek Sivers. It lists what I am currently focused on."
 hugo: now.md
-lastmod: 2023-12-31
+lastmod: 2024-04-12
 menu: main
 title: Now
 weight: 1
 ---
 
-This page serves to give you an idea of what I am currently working on, in no particular order. This is inspired by the "Now page" movement created by [Derek Sivers](https://nownownow.com/about). In [The Anatomy of Equanimity](https://anatomy.1651.org/) system, these are my current projects and quests.
+This page serves to give you an idea of what I am currently working on, in no particular order. This is inspired by the "Now page" movement created by [Derek Sivers](https://nownownow.com/about). In [The Anatomy of Equanimity](https://anatomy.1651.org/) system, these are my current projects and shifts.
 
 ## Promoting World Peace and Friendship
 
@@ -25,24 +25,23 @@ I attended a training with a local counterpart (and host sister) put on by Peace
 
 This is a tough one but it has been the most effective project I've been a part of thus far. Thankfully, I have a wonderful counterpart that helps me with the language when talking about these high-level, abstract ideas.
 
-## Becoming a More Compassionate Person
-
-This one is a bit more abstract and difficult than the rest. This started as a quest towards emotional intelligence until I delved in and learned that that is a sub-skill for something much more profound: cultivating meaningful connection between people. One of the most powerful tools for cultivating connection and being in service of others is **compassion** and so that is my quest.
-
-In order, I read [*Nonviolent Communication*]({{< relref "Nonviolent Communication" >}}), [*Permission to Feel*]({{< relref "Permission to Feel" >}}), [*Atlas of the Heart*]({{< relref "Atlas of the Heart" >}}) and [*Self-Compassion*]({{< relref "Self-Compassion" >}}) by Kristin Neff. These have given me a lot of insight and tools from multiple different angles to help me in this quest.
-
 ## Writing Book Notes
 
 I have been having a blast with this. I had quite a bit of free time last summer and was reading a lot. I wanted some way to engage more with what I was reading and not forget the things that I learn. I read almost exclusively on my Kindle and highlight and note things as I read. At the end, I use my custom Python script to extract all those notes and put them into a markdown file. Then I go through the highlights and write more structured notes in Obsidian and [post them to my website]({{< relref "books" >}}). For non-fiction, I try my best to put things in my own words and bold the really important bits to make the note scannable with the eyes.
 
 For fiction, I do more of a book review structure and am loving it. I hadn't written anything for a fiction book since high school and absolutely hated it then. I use a rating system called [CAWPILE](https://kristinkravesbooks.com/2020/09/14/cawpile-rating-system/) that gives me a nice structure that I need to think more deeply about the fiction I am reading.
 
+## Advancing Women's Economic Empowerment through Digital Literacy (WEE-DL)
+
+Two other volunteers, two Peace Corps staff members, and myself are working to put together a two-day workshop for a group of volunteers and their counterparts. The goal is to build the capacity of both volunteers and counterparts to implement WEE-DL activities in their individual sites. The long-term outcome of that is Moroccan youth and women have the digital skills they need to ["equitably and safely participate in, contribute to, and benefit from economic opportunities."](https://www.marketlinks.org/weege-wiki/11-overview)
+
 ## Thinking About My Career/Life After Peace Corps
 
 I've been conducting informational interviews with people who have interesting jobs that I might like to have. These are purely just to get insider information of what it is like working at different organizations and roles so that I can be proactive when it comes to choosing a career next year. I am looking for a career that allows me to:
 
-1. Make a positive human impact
+1. Make a contribution to positive social/human impact
 2. Learn
 3. Use the unique skills that I have earned
 
 If you are reading this and know someone with a career that fits this, I would love to chat with them! [Contact me.](/#contact)
+
