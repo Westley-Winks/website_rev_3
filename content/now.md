@@ -1,7 +1,7 @@
 ---
 description: "My now page inspired by Derek Sivers. It lists what I am currently focused on."
 hugo: now.md
-lastmod: 2024-04-12
+lastmod: 2024-05-12
 menu: main
 title: Now
 weight: 1
@@ -31,17 +31,16 @@ I have been having a blast with this. I had quite a bit of free time last summer
 
 For fiction, I do more of a book review structure and am loving it. I hadn't written anything for a fiction book since high school and absolutely hated it then. I use a rating system called [CAWPILE](https://kristinkravesbooks.com/2020/09/14/cawpile-rating-system/) that gives me a nice structure that I need to think more deeply about the fiction I am reading.
 
-## Advancing Women's Economic Empowerment through Digital Literacy (WEE-DL)
-
-Two other volunteers, two Peace Corps staff members, and myself are working to put together a two-day workshop for a group of volunteers and their counterparts. The goal is to build the capacity of both volunteers and counterparts to implement WEE-DL activities in their individual sites. The long-term outcome of that is Moroccan youth and women have the digital skills they need to ["equitably and safely participate in, contribute to, and benefit from economic opportunities."](https://www.marketlinks.org/weege-wiki/11-overview)
-
 ## Thinking About My Career/Life After Peace Corps
 
 I've been conducting informational interviews with people who have interesting jobs that I might like to have. These are purely just to get insider information of what it is like working at different organizations and roles so that I can be proactive when it comes to choosing a career next year. I am looking for a career that allows me to:
 
 1. Make a contribution to positive social/human impact
-2. Learn
+2. Learn through projects and mentorship
 3. Use the unique skills that I have earned
 
 If you are reading this and know someone with a career that fits this, I would love to chat with them! [Contact me.](/#contact)
 
+## Learning Spanish
+
+I've been wanting to do this for a while and an upcoming trip to Spain finally spurred me to actually do it. I studied quite a lot in high school and it's been fun having it all come back to me while also using new techniques that I learned from my Arabic studies. I'm also lucky enough to have a few Spanish-speaking friends in my life now that are kind enough to help me out. I never imagined I'd ever be bilingual, let alone trilingual, so it is a lovely and welcome challenge. Anything really is possible with enough practice and focus!
