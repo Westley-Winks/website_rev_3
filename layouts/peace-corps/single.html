@@ -8,7 +8,7 @@
 
   <section>
 
-    <p><a href="mailto:westleywinks@protonmail.com?subject={{ replace .Title " " "%20" }}">Reply to this post via email.</a></p>
+    <p><a href="mailto:{{ .Site.Params.author.email }}?subject={{ .Title }}">Reply to this post via email.</a></p>
     <a href="https://notbyai.fyi"><img src="{{ "/assets/Written-By-Human-Not-By-AI-Badge-white.svg" | relURL }}" alt="Written by Human, Not by AI"></a>
 
     <hr>
