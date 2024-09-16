@@ -186,14 +186,14 @@
     "stargazers": 1,
     "watchers": 1
   },
-  "Westley-Winks/website": {
-    "descriptionHTML": "<div>Thoughts, notes, ramblings, musings, and other projects from Westley Winks. Built with Astro.</div>",
+  "Westley-Winks/website-astro": {
+    "descriptionHTML": "<div>Archived thoughts, notes, ramblings, musings, and other projects from Westley Winks. Built with Astro.</div>",
     "forkCount": 0,
-    "homepageUrl": "https://wwinks.com/",
+    "homepageUrl": "",
     "isPrivate": false,
     "languages": "JavaScript Astro TypeScript CSS",
-    "name": "website",
-    "nameWithOwner": "Westley-Winks/website",
+    "name": "website-astro",
+    "nameWithOwner": "Westley-Winks/website-astro",
     "primaryLanguage": {
       "color": "#ff5a03",
       "name": "Astro"
